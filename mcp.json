@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "card-search": {
+      "command": "python",
+      "args": ["/Users/a80128121/Desktop/mac_mini/project/aicc/card_mcp.py"],
+      "env": {
+        "PYTHONPATH": "/Users/a80128121/Desktop/mac_mini/project/aicc"
+      }
+    }
+  }
+} 

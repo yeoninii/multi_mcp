@@ -1,0 +1,8176 @@
+[
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 Mr.Life",
+    "event": {
+      "card_detail_text": "최대 24만원 캐시백",
+      "title": "신한카드 9종",
+      "subject": "24만원 캐시백"
+    },
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[공과금] 공과금, 10%, 할인",
+      "[마트/편의점] 마트,편의점, 10%, 할인",
+      "[푸드] 식음료, 10%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 1,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/13",
+    "annual_fees": [
+      "15000"
+    ],
+    "benefit_keywords": [
+      "공과금",
+      "마트",
+      "편의점",
+      "푸드"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 Discount Plan+",
+    "event": {
+      "card_detail_text": "최대 24만원 캐시백",
+      "title": "신한카드 9종",
+      "subject": "24만원 캐시백"
+    },
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[카페/디저트] 카페, 10%, 할인",
+      "[쇼핑] 쇼핑, 10%, 할인",
+      "[할인] 정기결제, 최대 20%, 할인"
+    ],
+    "pre_month_money": 400000,
+    "idx": 2,
+    "annual_fee": {
+      "domestic": {
+        "amount": 50000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 50000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2835",
+    "annual_fees": [
+      "50000"
+    ],
+    "benefit_keywords": [
+      "디저트",
+      "쇼핑",
+      "카페",
+      "할인"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 처음(ANNIVERSE)",
+    "event": {
+      "card_detail_text": "최대 24만원 캐시백",
+      "title": "신한카드 9종",
+      "subject": "24만원 캐시백"
+    },
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 음식·생활·패션, 5%, 적립",
+      "[통신] 통신·구독·멤버십, 최대 20%, 적립",
+      "[적립] 소비관리 보너스, 매월 최대 1만P"
+    ],
+    "pre_month_money": 300000,
+    "idx": 3,
+    "annual_fee": {
+      "domestic": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 18000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2759",
+    "annual_fees": [
+      "15000",
+      "18000"
+    ],
+    "benefit_keywords": [
+      "적립",
+      "통신",
+      "KT",
+      "LGU+"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 Deep Oil",
+    "event": {
+      "card_detail_text": "최대 24만원 캐시백",
+      "title": "신한카드 9종",
+      "subject": "24만원 캐시백"
+    },
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[주유] 4개정유사, 10%, 할인",
+      "[자동차/하이패스] 차량서비스, 10%, 할인",
+      "[생활] 편의점/커피/택시, 5%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 4,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/39",
+    "annual_fees": [
+      "10000"
+    ],
+    "benefit_keywords": [
+      "생활",
+      "자동차",
+      "주유",
+      "하이패스"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "AMEX",
+    "name": "신한카드 Air One",
+    "event": {
+      "card_detail_text": "최대 24만원 캐시백",
+      "title": "신한카드 9종",
+      "subject": "24만원 캐시백"
+    },
+    "c_type_txt": "마일리지형",
+    "top_benefit": [
+      "[대한항공] 국내/해외 1,000원당, 1마일, 적립",
+      "[공항] 항공/면세, 2배, 적립",
+      "[해외이용] 해외, 2배, 적립"
+    ],
+    "pre_month_money": 500000,
+    "idx": 5,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 49000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/466",
+    "annual_fees": [
+      "49000"
+    ],
+    "benefit_keywords": [
+      "공항",
+      "대한항공",
+      "해외이용"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 Point Plan",
+    "event": {
+      "card_detail_text": "최대 24만원 캐시백",
+      "title": "신한카드 9종",
+      "subject": "24만원 캐시백"
+    },
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 국내 가맹점, 최대 3%, 적립",
+      "[적립] 주말 외식비, 1천 포인트, 적립",
+      "[적립] 도시가스/전기요금, 1천 포인트, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 6,
+    "annual_fee": {
+      "domestic": {
+        "amount": 20000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 23000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2666",
+    "annual_fees": [
+      "20000",
+      "23000"
+    ],
+    "benefit_keywords": [
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 Point Plan+",
+    "event": {
+      "card_detail_text": "최대 24만원 캐시백",
+      "title": "신한카드 9종",
+      "subject": "24만원 캐시백"
+    },
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 국내 결제금액, 최대 3%, 적립",
+      "[푸드] 주말 외식비, 1천 포인트, 적립",
+      "[디지털구독] OTT, 최대 2천 포인트, 적립"
+    ],
+    "pre_month_money": 400000,
+    "idx": 7,
+    "annual_fee": {
+      "domestic": {
+        "amount": 30000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 33000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2731",
+    "annual_fees": [
+      "30000",
+      "33000"
+    ],
+    "benefit_keywords": [
+      "디지털구독",
+      "적립",
+      "푸드",
+      "OTT"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 The BEST-X",
+    "event": {
+      "card_detail_text": "최대 24만원 캐시백",
+      "title": "신한카드 9종",
+      "subject": "24만원 캐시백"
+    },
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 기본 리워드, 1%, 적립(마이신한포인트형)",
+      "[항공마일리지] 기본 리워드, 1,500원 당 1마일, 적립(스카이패스형)",
+      "[바우처] 연 1회, 최대 25만원, 기프트 제공"
+    ],
+    "pre_month_money": 500000,
+    "idx": 8,
+    "annual_fee": {
+      "domestic": {
+        "amount": 297000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 300000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2807",
+    "annual_fees": [
+      "297000",
+      "300000"
+    ],
+    "benefit_keywords": [
+      "바우처",
+      "적립",
+      "항공마일리지"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 The BEST-F",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[할인] 캐시백형, 1%, 캐시백",
+      "[대한항공] 대한항공형, 1,500원/1마일, 적립",
+      "[바우처] 기프트옵션, 1회/연, 제공"
+    ],
+    "pre_month_money": 300000,
+    "idx": 9,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 202000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/37",
+    "annual_fees": [
+      "202000"
+    ],
+    "benefit_keywords": [
+      "대한항공",
+      "바우처",
+      "할인"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 Edu Plan+",
+    "event": {
+      "card_detail_text": "최대 24만원 캐시백",
+      "title": "신한카드 9종",
+      "subject": "24만원 캐시백"
+    },
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[학원] 학원비, 최대 10%, 캐시백",
+      "[대형마트] 3대 할인점, 1%, 캐시백",
+      "[영화] 메가박스, 7천원, 할인"
+    ],
+    "pre_month_money": 500000,
+    "idx": 10,
+    "annual_fee": {
+      "domestic": {
+        "amount": 40000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 43000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2735",
+    "annual_fees": [
+      "40000",
+      "43000"
+    ],
+    "benefit_keywords": [
+      "대형마트",
+      "영화",
+      "학원"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "K-패스 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[교통] 대중교통, 10%, 할인",
+      "[간편결제] 간편결제, 5%, 할인",
+      "[할인] 생활 부문, 5%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 11,
+    "annual_fee": {
+      "domestic": {
+        "amount": 7000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2690",
+    "annual_fees": [
+      "7000",
+      "10000"
+    ],
+    "benefit_keywords": [
+      "간편결제",
+      "교통",
+      "할인"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, UnionPay",
+    "name": "신한카드 RPM+ Platinum#",
+    "event": {
+      "card_detail_text": "최대 3.5만원 캐시백",
+      "title": "RPM+ Platinum#",
+      "subject": "신한카드"
+    },
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[주유소] 모든주유소, 40~150P/L, 적립",
+      "[충전소] 모든충전소, 10~50P/L, 적립",
+      "[모든가맹점] 모든가맹점, 0.2~2%, 적립"
+    ],
+    "pre_month_money": 500000,
+    "idx": 12,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 32000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/16",
+    "annual_fees": [
+      "32000"
+    ],
+    "benefit_keywords": [
+      "모든가맹점",
+      "주유소",
+      "충전소"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard, UnionPay",
+    "name": "신한카드 Deep On Platinum+",
+    "event": {
+      "card_detail_text": "최대 3.3만원 캐시백",
+      "title": "Deep On Platinum+",
+      "subject": "신한카드"
+    },
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[간편결제] 국내 온라인, 10%, 할인",
+      "[생활] 4대 편의점, 20%, 할인",
+      "[항공권] 항공권, 10%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 13,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 30000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/41",
+    "annual_fees": [
+      "30000"
+    ],
+    "benefit_keywords": [
+      "간편결제",
+      "생활",
+      "항공권"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "메리어트 본보이™ 더 베스트 신한카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[호텔] 메리어트 참여호텔, 무료숙박권, 제공",
+      "[호텔] 메리어트 참여호텔 이용시, 5P/1천원, 적립",
+      "[멤버십포인트] 메리어트 본보이™ 멤버십, 골드엘리트, 제공"
+    ],
+    "pre_month_money": 0,
+    "idx": 14,
+    "annual_fee": {
+      "domestic": {
+        "amount": 264000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 267000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/716",
+    "annual_fees": [
+      "264000",
+      "267000"
+    ],
+    "benefit_keywords": [
+      "멤버십포인트",
+      "호텔"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "티머니 Pay & GO 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[대중교통] 버스, 지하철, 30%, 할인",
+      "[교통] 고속버스, 택시, 20%, 할인",
+      "[통신] 이동통신요금, 5%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 15,
+    "annual_fee": {
+      "domestic": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 18000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2386",
+    "annual_fees": [
+      "15000",
+      "18000"
+    ],
+    "benefit_keywords": [
+      "교통",
+      "대중교통",
+      "통신",
+      "KT",
+      "LGU+"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 구독 좋아요",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[디지털구독] 디지털구독, 100%, 할인",
+      "[통신] 정기결제 자동이체, 1천원, 할인",
+      "[생활] 생활 서비스, 10%, 할인"
+    ],
+    "pre_month_money": 400000,
+    "idx": 16,
+    "annual_fee": {
+      "domestic": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 18000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2453",
+    "annual_fees": [
+      "15000",
+      "18000"
+    ],
+    "benefit_keywords": [
+      "디지털구독",
+      "생활",
+      "통신",
+      "OTT",
+      "KT",
+      "LGU+"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "알리익스프레스 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[쇼핑] 알리익스프레스, 10%, 할인",
+      "[할인] 음식점·카페·배달앱, 10%, 할인",
+      "[해외] 해외, 1%, 적립"
+    ],
+    "pre_month_money": 300000,
+    "idx": 17,
+    "annual_fee": {
+      "domestic": {
+        "amount": 16000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 19000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2831",
+    "annual_fees": [
+      "16000",
+      "19000"
+    ],
+    "benefit_keywords": [
+      "쇼핑",
+      "할인",
+      "해외"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "AMEX",
+    "name": "신한카드 The CLASSIC+",
+    "event": null,
+    "c_type_txt": "마일리지형",
+    "top_benefit": [
+      "[대한항공] 1,500원당, 1마일, 적립",
+      "[아시아나항공] 1,000원당, 1마일, 적립",
+      "[PP] PP카드, 무료, 제공"
+    ],
+    "pre_month_money": 300000,
+    "idx": 18,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 120000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/15",
+    "annual_fees": [
+      "120000"
+    ],
+    "benefit_keywords": [
+      "PP",
+      "대한항공",
+      "아시아나항공"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "네이버페이 라인프렌즈 신한카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[네이버페이] 네이버 결제 시, 2%, 적립",
+      "[적립] 네이버 외, 0.5%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 19,
+    "annual_fee": {
+      "domestic": {
+        "amount": 7000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/651",
+    "annual_fees": [
+      "7000",
+      "10000"
+    ],
+    "benefit_keywords": [
+      "네이버페이",
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, UnionPay",
+    "name": "신한카드 Simple Platinum#",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[모든가맹점] 전가맹점, 1%, 캐시백",
+      "[생활] 생활밀착가맹점, 0.7%, 추가캐시백",
+      "[할인] 생활친화가맹점, 월 10회, 잔돈 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 20,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 27000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/21",
+    "annual_fees": [
+      "27000"
+    ],
+    "benefit_keywords": [
+      "모든가맹점",
+      "생활",
+      "할인"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, Mastercard",
+    "name": "신한카드 Simple+",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[모든가맹점] 전가맹점, 0.7%, 캐시백",
+      "[통신] 이동통신요금, 0.7%, 추가캐시백",
+      "[할인] 생활친화가맹점, 월 10회, 잔돈할인"
+    ],
+    "pre_month_money": 0,
+    "idx": 21,
+    "annual_fee": {
+      "domestic": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 13000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/11",
+    "annual_fees": [
+      "10000",
+      "13000"
+    ],
+    "benefit_keywords": [
+      "모든가맹점",
+      "통신",
+      "할인",
+      "KT",
+      "LGU+"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 Deep Taking",
+    "event": {
+      "card_detail_text": "최대 2만원 캐시백",
+      "title": "Deep Taking",
+      "subject": "신한카드"
+    },
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[선택형] 최다이용영역, 2%, 적립",
+      "[푸드] 푸드, 2%, 적립",
+      "[생활] 생활, 2%, 적립"
+    ],
+    "pre_month_money": 400000,
+    "idx": 22,
+    "annual_fee": {
+      "domestic": {
+        "amount": 20000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 20000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/477",
+    "annual_fees": [
+      "20000"
+    ],
+    "benefit_keywords": [
+      "생활",
+      "선택형",
+      "푸드"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": null,
+    "name": "신한카드 후불하이패스+ (하이패스 전용)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[자동차/하이패스] 하이패스 요금, 0.1%, 적립",
+      "[자동차/하이패스] 출퇴근시간대 통행료, 20~50%, 자동할인",
+      "[자동차/하이패스] 판교↔ 청계, 성남, 연계통행료, 면제"
+    ],
+    "pre_month_money": 0,
+    "idx": 23,
+    "annual_fee": {
+      "domestic": {
+        "amount": 2000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/884",
+    "annual_fees": [
+      "2000"
+    ],
+    "benefit_keywords": [
+      "자동차",
+      "하이패스"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, Mastercard, UnionPay",
+    "name": "신한카드 The CLASSIC-Y",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[선택형] Gift Option, 매년1회, 선택이용",
+      "[모든가맹점] 마이신한포인트, 0.7~5%, 적립",
+      "[주유소] GS칼텍스, 60원/L, 할인"
+    ],
+    "pre_month_money": 0,
+    "idx": 24,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 100000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/8",
+    "annual_fees": [
+      "100000"
+    ],
+    "benefit_keywords": [
+      "모든가맹점",
+      "선택형",
+      "주유소"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": null,
+    "name": "토스페이 플러스 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[간편결제] 실물없는, 모바일, 단독카드"
+    ],
+    "pre_month_money": 0,
+    "idx": 25,
+    "annual_fee": {
+      "domestic": {
+        "amount": 1000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2805",
+    "annual_fees": [
+      "1000"
+    ],
+    "benefit_keywords": [
+      "간편결제"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 EVerywhere",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[충전소] 전기차 충전요금, 20~40%, 캐시백",
+      "[디지털구독] 디지털 구독서비스, 20%, 캐시백",
+      "[자동차] 주차앱, 5천원, 캐시백"
+    ],
+    "pre_month_money": 400000,
+    "idx": 26,
+    "annual_fee": {
+      "domestic": {
+        "amount": 19000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 22000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2435",
+    "annual_fees": [
+      "19000",
+      "22000"
+    ],
+    "benefit_keywords": [
+      "디지털구독",
+      "자동차",
+      "충전소",
+      "OTT"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, Mastercard",
+    "name": "신한카드 Air Platinum#",
+    "event": null,
+    "c_type_txt": "마일리지형",
+    "top_benefit": [
+      "[대한항공] 1,500원당, 1마일, 적립",
+      "[아시아나항공] 1,000원당, 1마일, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 27,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 37000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/12",
+    "annual_fees": [
+      "37000"
+    ],
+    "benefit_keywords": [
+      "대한항공",
+      "아시아나항공"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 국민행복",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[디지털구독] 넷플릭스/유튜브, 50%, 할인",
+      "[배달앱] 배달앱, 10%, 할인",
+      "[어린이집] 어린이집/유치원, 10%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 28,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/712",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "디지털구독",
+      "배달앱",
+      "어린이집",
+      "OTT"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 Deep Store",
+    "event": {
+      "card_detail_text": "최대 1.6만원 캐시백",
+      "title": "Deep Store",
+      "subject": "신한카드"
+    },
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[쇼핑] 생활쇼핑가맹점, ~15%, 할인",
+      "[카페/디저트] 커피전문점/제과점, 10%, 할인",
+      "[대형마트] 복합쇼핑몰/마트, 10%, 주말할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 29,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 13000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/43",
+    "annual_fees": [
+      "13000"
+    ],
+    "benefit_keywords": [
+      "대형마트",
+      "디저트",
+      "쇼핑",
+      "카페"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "메리어트 본보이™ 더 클래식 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[적립] 연간 기프트, 15,000P, 제공",
+      "[적립] 메리어트 본보이™ 포인트, 최대4P, 적립",
+      "[적립] 메리어트 본보이™ 멤버십, 엘리트, 제공"
+    ],
+    "pre_month_money": 0,
+    "idx": 30,
+    "annual_fee": {
+      "domestic": {
+        "amount": 144000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 147000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2291",
+    "annual_fees": [
+      "144000",
+      "147000"
+    ],
+    "benefit_keywords": [
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 Discount Plan",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[마트/편의점] 마트,편의점, 10%, 할인",
+      "[일반음식점] 카페,음식점, 10%, 할인",
+      "[할인] 공과금, 디지털구독·멤버십, 최대 20%, 할인"
+    ],
+    "pre_month_money": 400000,
+    "idx": 31,
+    "annual_fee": {
+      "domestic": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2836",
+    "annual_fees": [
+      "15000"
+    ],
+    "benefit_keywords": [
+      "마트",
+      "일반음식점",
+      "편의점",
+      "할인"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 SOL트래블",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[수수료우대] 해외 이용·ATM, 수수료, 면제",
+      "[해외이용] 자유로운 해외 결제, 환율 100%, 우대",
+      "[적립] 국내 이용금액, 최대 2%, 적립"
+    ],
+    "pre_month_money": 400000,
+    "idx": 32,
+    "annual_fee": {
+      "domestic": {
+        "amount": 27000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 30000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2722",
+    "annual_fees": [
+      "27000",
+      "30000"
+    ],
+    "benefit_keywords": [
+      "수수료우대",
+      "적립",
+      "해외이용"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "싱가포르항공 크리스플라이어 더 베스트 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[항공마일리지] 연 1회, 1만 5천 마일리지, 적립",
+      "[항공마일리지] 1,500원당, 2마일리지, 적립",
+      "[공항라운지/PP] 공항라운지, 연 2회, 무료"
+    ],
+    "pre_month_money": 500000,
+    "idx": 33,
+    "annual_fee": {
+      "domestic": {
+        "amount": 247000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 250000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2592",
+    "annual_fees": [
+      "247000",
+      "250000"
+    ],
+    "benefit_keywords": [
+      "PP",
+      "공항라운지",
+      "항공마일리지"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 YOLO ⓘ",
+    "event": {
+      "card_detail_text": "최대 1.8만원 캐시백",
+      "title": "YOLO ⓘ",
+      "subject": "신한카드"
+    },
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[선택형] 6개가맹점, 할인율, 선택",
+      "[카페] 스타벅스, 쿠폰, 제공"
+    ],
+    "pre_month_money": 300000,
+    "idx": 34,
+    "annual_fee": {
+      "domestic": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 18000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/14",
+    "annual_fees": [
+      "15000",
+      "18000"
+    ],
+    "benefit_keywords": [
+      "선택형",
+      "카페"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "#Pay 신한카드",
+    "event": {
+      "card_detail_text": "최대 3만원 캐시백",
+      "title": "#Pay 신한카드",
+      "subject": "신한카드"
+    },
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[간편결제] 7대 간편결제, 5%, 적립"
+    ],
+    "pre_month_money": 300000,
+    "idx": 35,
+    "annual_fee": {
+      "domestic": {
+        "amount": 27000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 30000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2258",
+    "annual_fees": [
+      "27000",
+      "30000"
+    ],
+    "benefit_keywords": [
+      "간편결제"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "네이버페이 신한카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[네이버페이] 전가맹점, 1%, 적립",
+      "[간편결제] 네이버페이결제시, 2%, 추가적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 36,
+    "annual_fee": {
+      "domestic": {
+        "amount": 27000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 30000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/577",
+    "annual_fees": [
+      "27000",
+      "30000"
+    ],
+    "benefit_keywords": [
+      "간편결제",
+      "네이버페이"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, UnionPay",
+    "name": "신한카드 The PREMIER GOLD EDITION (스카이패스)",
+    "event": null,
+    "c_type_txt": "마일리지형",
+    "top_benefit": [
+      "[대한항공] 1,500원당, 1마일리지, 적립",
+      "[호텔] 프리미어 호텔 서비스, 연 1회, 제공",
+      "[골프] 골프장, 연 2회, 그린피 무료"
+    ],
+    "pre_month_money": 0,
+    "idx": 37,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 1900000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2090",
+    "annual_fees": [
+      "1900000"
+    ],
+    "benefit_keywords": [
+      "골프",
+      "대한항공",
+      "호텔"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 Eats More(이츠모아)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 전가맹점 결제금액, 1천원미만, 기본적립",
+      "[적립] 추가적립업종 건당, 최대 1,600P, 추가적립",
+      "[해외] 환전수수료, 면제, 서비스"
+    ],
+    "pre_month_money": 400000,
+    "idx": 38,
+    "annual_fee": {
+      "domestic": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 18000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2304",
+    "annual_fees": [
+      "15000",
+      "18000"
+    ],
+    "benefit_keywords": [
+      "적립",
+      "해외"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "AMEX",
+    "name": "신한카드 Unboxing",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[온라인쇼핑] 온라인종합몰, 10%, 캐시백",
+      "[편의점] 편의점, 10%, 캐시백",
+      "[기타] 배송비 건당, 2,500원, 할인"
+    ],
+    "pre_month_money": 400000,
+    "idx": 39,
+    "annual_fee": {
+      "domestic": {
+        "amount": 32000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 35000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/687",
+    "annual_fees": [
+      "32000",
+      "35000"
+    ],
+    "benefit_keywords": [
+      "기타",
+      "온라인쇼핑",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 처음",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[쇼핑] 음식점·카페·편의점·온라인쇼핑, 5%, 적립",
+      "[생활] 생활·여행·패션, 5%, 적립",
+      "[통신] 정기결제 , 최대 20%, 적립"
+    ],
+    "pre_month_money": 300000,
+    "idx": 40,
+    "annual_fee": {
+      "domestic": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 18000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2694",
+    "annual_fees": [
+      "15000",
+      "18000"
+    ],
+    "benefit_keywords": [
+      "생활",
+      "쇼핑",
+      "통신",
+      "KT",
+      "LGU+"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, Mastercard, JCB",
+    "name": "신한카드 The BEST+",
+    "event": null,
+    "c_type_txt": "마일리지형",
+    "top_benefit": [
+      "[바우처] Gift Option, 연 1회, 택 1",
+      "[대한항공] 항공, 마일리지 적립",
+      "[공항라운지] 공항라운지, 무료 이용"
+    ],
+    "pre_month_money": 0,
+    "idx": 41,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 295000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/993",
+    "annual_fees": [
+      "295000"
+    ],
+    "benefit_keywords": [
+      "공항라운지",
+      "대한항공",
+      "바우처"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": null,
+    "name": "신한카드 플리",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[할인] 국내 이용금액, 최대 0.9%, 결제일 할인",
+      "[해외] 해외 이용금액, 0.5%, 결제일 할인",
+      "[기타] 매주 1회, 할인 쿠폰, 제공"
+    ],
+    "pre_month_money": 0,
+    "idx": 42,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2371",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "기타",
+      "할인",
+      "해외"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 집",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[생활] 주택임대료 최대, 1만5천원, 할인",
+      "[통신] 통신, 인터넷, 보안업체, 자동이체, 할인",
+      "[공과금/렌탈] 아파트관리비, 3천원, 할인"
+    ],
+    "pre_month_money": 0,
+    "idx": 43,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 12000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/889",
+    "annual_fees": [
+      "12000"
+    ],
+    "benefit_keywords": [
+      "공과금",
+      "렌탈",
+      "생활",
+      "통신",
+      "KT",
+      "LGU+"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "카카오뱅크 줍줍 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[할인] 카드 쓰면, 1%, 캐시백",
+      "[캐시백] 카드값 바로내면, 1%, 캐시백"
+    ],
+    "pre_month_money": 0,
+    "idx": 44,
+    "annual_fee": {
+      "domestic": {
+        "amount": 18000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 18000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2858",
+    "annual_fees": [
+      "18000"
+    ],
+    "benefit_keywords": [
+      "캐시백",
+      "할인"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "스타필드 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[쇼핑] 스타필드, 10%, 할인",
+      "[쇼핑] 신세계 계열사, 5%, 할인",
+      "[생활] 라이프, 5%, 할인"
+    ],
+    "pre_month_money": 400000,
+    "idx": 45,
+    "annual_fee": {
+      "domestic": {
+        "amount": 17000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 20000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2873",
+    "annual_fees": [
+      "17000",
+      "20000"
+    ],
+    "benefit_keywords": [
+      "생활",
+      "쇼핑"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, UnionPay",
+    "name": "신한카드 주거래 신용",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[모든가맹점] 모든가맹점, 0.7%, 적립",
+      "[쇼핑] 쇼핑/해외, 1.3%, 추가적립",
+      "[생활] 생활가맹점, 3.3%, 추가적립"
+    ],
+    "pre_month_money": 300000,
+    "idx": 46,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/895",
+    "annual_fees": [
+      "15000"
+    ],
+    "benefit_keywords": [
+      "모든가맹점",
+      "생활",
+      "쇼핑"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "LG U+ Bora 신한카드 Big Plus",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[통신] 통신요금 최대, 1만5천원, 할인",
+      "[LGU+] LG U+, 스마트할부, 제공",
+      "[주유] 현대오일뱅크, 40P/L, 적립"
+    ],
+    "pre_month_money": 400000,
+    "idx": 47,
+    "annual_fee": {
+      "domestic": {
+        "amount": 22000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 25000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/1390",
+    "annual_fees": [
+      "22000",
+      "25000"
+    ],
+    "benefit_keywords": [
+      "LGU+",
+      "주유",
+      "통신",
+      "KT"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, UnionPay",
+    "name": "신한카드 The ACE BLUE LABEL",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[바우처] Gift Option, 3개 중 택 1",
+      "[병원] 의료비, 10%, 할인",
+      "[PP] 공항라운지, PP 서비스, 제공"
+    ],
+    "pre_month_money": 0,
+    "idx": 48,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 700000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2788",
+    "annual_fees": [
+      "700000"
+    ],
+    "benefit_keywords": [
+      "PP",
+      "바우처",
+      "병원"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "New LG전자 베스트샵 PLUS 신한카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[쇼핑] LG전자, 5~10%, 할인",
+      "[무이자할부] 베스트플러스, 최고 3%, 할부포인트 적립",
+      "[테마파크] 롯데월드, 50%, 할인"
+    ],
+    "pre_month_money": 500000,
+    "idx": 49,
+    "annual_fee": {
+      "domestic": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 12000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/1899",
+    "annual_fees": [
+      "10000",
+      "12000"
+    ],
+    "benefit_keywords": [
+      "무이자할부",
+      "쇼핑",
+      "테마파크"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard, UnionPay",
+    "name": "신세계 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[백화점] 신세계백화점, 5%, 할인",
+      "[생활] Life Care가맹점, 5%, 할인",
+      "[해외] 해외, 5%, 캐시백"
+    ],
+    "pre_month_money": 500000,
+    "idx": 50,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 12000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/28",
+    "annual_fees": [
+      "12000"
+    ],
+    "benefit_keywords": [
+      "백화점",
+      "생활",
+      "해외"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한 후불 기후동행 신용카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[할인] 온라인, 10%, 할인",
+      "[할인] 오프라인, 10%, 할인"
+    ],
+    "pre_month_money": 400000,
+    "idx": 51,
+    "annual_fee": {
+      "domestic": {
+        "amount": 9000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 12000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2766",
+    "annual_fees": [
+      "9000",
+      "12000"
+    ],
+    "benefit_keywords": [
+      "할인"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 Deep Making",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[선택형] DIY서비스, 17%, 적립",
+      "[쇼핑] 쇼핑, 1~5%, 적립",
+      "[푸드] 푸드, 1~5%, 적립"
+    ],
+    "pre_month_money": 400000,
+    "idx": 52,
+    "annual_fee": {
+      "domestic": {
+        "amount": 30000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 30000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/476",
+    "annual_fees": [
+      "30000"
+    ],
+    "benefit_keywords": [
+      "선택형",
+      "쇼핑",
+      "푸드"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 MY CAR",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[자동차] 자동차 구매금액, 0.2%, 캐시백",
+      "[주유] 주유소, 80원/L, 할인",
+      "[자동차] 전기차 충전요금, 30%, 할인"
+    ],
+    "pre_month_money": 400000,
+    "idx": 53,
+    "annual_fee": {
+      "domestic": {
+        "amount": 27000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 30000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/693",
+    "annual_fees": [
+      "27000",
+      "30000"
+    ],
+    "benefit_keywords": [
+      "자동차",
+      "주유"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "LG트윈스 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[경기관람] LG트윈스 홈경기, 3천원, 할인",
+      "[영화] CGV, 3천원, 현장할인",
+      "[테마파크] 테마파크, 30~50%, 할인"
+    ],
+    "pre_month_money": 0,
+    "idx": 54,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2526",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "경기관람",
+      "영화",
+      "테마파크"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, UnionPay",
+    "name": "신한카드 B.Big(삑)",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[대중교통] 대중교통, 200~600원, 할인",
+      "[택시] 택시, 10%, 할인",
+      "[기차] KTX , 10%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 55,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/10",
+    "annual_fees": [
+      "10000"
+    ],
+    "benefit_keywords": [
+      "기차",
+      "대중교통",
+      "택시"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 알뜰More(알뜰모아)",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[통신] 알뜰폰요금 최대, 1만5천원, 할인"
+    ],
+    "pre_month_money": 400000,
+    "idx": 56,
+    "annual_fee": {
+      "domestic": {
+        "amount": 20000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 23000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2467",
+    "annual_fees": [
+      "20000",
+      "23000"
+    ],
+    "benefit_keywords": [
+      "통신",
+      "KT",
+      "LGU+"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "JCB",
+    "name": "Haru(Hoshino Resorts)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[해외이용] 일본 이용, 3.5%, 적립",
+      "[적립] 국내 이용, 1%, 적립",
+      "[리조트] 호시노리조트 계열, 최대 30%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 57,
+    "annual_fee": {
+      "domestic": {
+        "amount": 30000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 30000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2855",
+    "annual_fees": [
+      "30000"
+    ],
+    "benefit_keywords": [
+      "리조트",
+      "적립",
+      "해외이용"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "T우주 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[디지털구독] 우주패스 구독료, 최대9,900원, 캐시백",
+      "[쇼핑] 할인점/온라인쇼핑, 최대5%, 적립",
+      "[생활] 생활친화업종, 최대10%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 58,
+    "annual_fee": {
+      "domestic": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 18000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2302",
+    "annual_fees": [
+      "15000",
+      "18000"
+    ],
+    "benefit_keywords": [
+      "디지털구독",
+      "생활",
+      "쇼핑",
+      "OTT"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 KaPick",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[적립] 주중 서비스 요일별, 5%, 포인트 적립",
+      "[간편결제] 토/일 서비스, 월 최대 1만2천, 포인트 적립",
+      "[적립] 월간서비스, 10%, 포인트 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 59,
+    "annual_fee": {
+      "domestic": {
+        "amount": 19000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 22000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2549",
+    "annual_fees": [
+      "19000",
+      "22000"
+    ],
+    "benefit_keywords": [
+      "간편결제",
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 Globus",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[수수료우대] 해외 수수료, 1.18%, 할인",
+      "[기타] 국내 이용금액, 0.7%, 적립",
+      "[기타] 해외 이용금액, 1.7%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 60,
+    "annual_fee": {
+      "domestic": {
+        "amount": 22000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 25000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2532",
+    "annual_fees": [
+      "22000",
+      "25000"
+    ],
+    "benefit_keywords": [
+      "기타",
+      "수수료우대"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "11번가 신한카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 국내외가맹점, 0.5%, 적립",
+      "[적립] 11번가, 1%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 61,
+    "annual_fee": {
+      "domestic": {
+        "amount": 5000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 8000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/490",
+    "annual_fees": [
+      "5000",
+      "8000"
+    ],
+    "benefit_keywords": [
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "CU Npay 카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[편의점] CU 편의점, 최대 20%, 할인",
+      "[적립] CU 편의점 외, 최대 5%, 적립",
+      "[편의점] CU 편의점, CU 멤버십, 서비스"
+    ],
+    "pre_month_money": 400000,
+    "idx": 62,
+    "annual_fee": {
+      "domestic": {
+        "amount": 16000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 19000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2763",
+    "annual_fees": [
+      "16000",
+      "19000"
+    ],
+    "benefit_keywords": [
+      "적립",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 Edu",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[학원] 교육업종, 5~10%, 캐시백",
+      "[공과금] 아파트관리비, 5,000원, 캐시백",
+      "[생활] 생활업종, 1%, 캐시백"
+    ],
+    "pre_month_money": 500000,
+    "idx": 63,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 20000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/26",
+    "annual_fees": [
+      "20000"
+    ],
+    "benefit_keywords": [
+      "공과금",
+      "생활",
+      "학원"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 Shopping",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[쇼핑] 온.오프라인, 10%, 할인",
+      "[생활] 생활업종, 10%, 할인",
+      "[해외] 해외이용, 5%, 캐시백"
+    ],
+    "pre_month_money": 500000,
+    "idx": 64,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 20000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/18",
+    "annual_fees": [
+      "20000"
+    ],
+    "benefit_keywords": [
+      "생활",
+      "쇼핑",
+      "해외"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "KT 가족만족 할부 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[통신] Super할부, 24개월, 연 5.9%",
+      "[통신] 통신요금, 월 최대 1만 5천원, 할인"
+    ],
+    "pre_month_money": 0,
+    "idx": 65,
+    "annual_fee": {
+      "domestic": {
+        "amount": 22000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 25000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2741",
+    "annual_fees": [
+      "22000",
+      "25000"
+    ],
+    "benefit_keywords": [
+      "통신",
+      "KT",
+      "LGU+"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, Mastercard, AMEX",
+    "name": "신한카드 Cube Platinum#",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[선택형] 선택서비스, 5%, 할인",
+      "[할인] 1천원미만의, 잔돈, 할인",
+      "[주유] 모든주유소, 60원/L, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 66,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 32000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/36",
+    "annual_fees": [
+      "32000"
+    ],
+    "benefit_keywords": [
+      "선택형",
+      "주유",
+      "할인"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, Mastercard",
+    "name": "신한카드 The CLASSIC-S",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[모든가맹점] 이용금액, 1%, 기본적립",
+      "[모든가맹점] 이용금액, 0.5%, 추가적립",
+      "[해외] 해외, 면세점, 2%, 추가적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 67,
+    "annual_fee": {
+      "domestic": {
+        "amount": 97000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 100000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/945",
+    "annual_fees": [
+      "97000",
+      "100000"
+    ],
+    "benefit_keywords": [
+      "모든가맹점",
+      "해외"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 The Pet",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[동물병원] 전국 동물병원, 30%, 할인",
+      "[쇼핑] 펫 전용 쇼핑몰, 30%, 할인",
+      "[온라인쇼핑] 온라인 쇼핑몰, 10%, 할인"
+    ],
+    "pre_month_money": 400000,
+    "idx": 68,
+    "annual_fee": {
+      "domestic": {
+        "amount": 20000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 23000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2747",
+    "annual_fees": [
+      "20000",
+      "23000"
+    ],
+    "benefit_keywords": [
+      "동물병원",
+      "쇼핑",
+      "온라인쇼핑"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 봄",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[캐시백] 전가맹점 최대, 0.5%, 캐시백",
+      "[교통] 대중교통 일 최대, 200원, 캐시백",
+      "[디지털구독] 디지털 구독 최대, 10,000원, 캐시백"
+    ],
+    "pre_month_money": 0,
+    "idx": 69,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2511",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "교통",
+      "디지털구독",
+      "캐시백",
+      "OTT"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "GS ALL 신한카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[마트/편의점] GS리테일 결제, 최대 10%, 적립",
+      "[간편결제] GS Pay 결제, 추가 2%, 적립",
+      "[국내외가맹점] 국내외 가맹점, 0.1%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 70,
+    "annual_fee": {
+      "domestic": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 18000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2872",
+    "annual_fees": [
+      "15000",
+      "18000"
+    ],
+    "benefit_keywords": [
+      "간편결제",
+      "국내외가맹점",
+      "마트",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "SPOTV NOW 신한카드 구독 좋아요",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[디지털구독] 디지털구독 월 한도 내, 100%, 할인",
+      "[할인] 정기결제 자동이체, 1,000원, 할인",
+      "[할인] 생활 서비스, 10%, 할인"
+    ],
+    "pre_month_money": 400000,
+    "idx": 71,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2602",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "디지털구독",
+      "할인",
+      "OTT"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 Deep Once",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[렌탈 ] 렌탈 자동이체, 최대 7천포인트, 적립",
+      "[공과금] 정기월납 자동이체, 최대 6천포인트, 적립",
+      "[생활] 디지털구독 정기결제, 최대 6천포인트, 적립"
+    ],
+    "pre_month_money": 400000,
+    "idx": 72,
+    "annual_fee": {
+      "domestic": {
+        "amount": 20000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 23000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/536",
+    "annual_fees": [
+      "20000",
+      "23000"
+    ],
+    "benefit_keywords": [
+      "공과금",
+      "렌탈",
+      "생활"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 LABE",
+    "event": null,
+    "c_type_txt": "마일리지형",
+    "top_benefit": [
+      "[바우처] 골프 기프트 옵션, 연 1회, 택 1",
+      "[대한항공] 항공 적립 최대, 3 마일리지, 적립",
+      "[골프] 골핑 or GDR, 할인, 서비스"
+    ],
+    "pre_month_money": 500000,
+    "idx": 73,
+    "annual_fee": {
+      "domestic": {
+        "amount": 197000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 200000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/1006",
+    "annual_fees": [
+      "197000",
+      "200000"
+    ],
+    "benefit_keywords": [
+      "골프",
+      "대한항공",
+      "바우처"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "JCB",
+    "name": "건담 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[쇼핑] 건담베이스KR, 10%, 할인",
+      "[영화] CGV, 5,000원, 할인",
+      "[쇼핑] 쇼핑·다이닝·몰링, 10%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 74,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2524",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "쇼핑",
+      "영화"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "다이소 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[생활] 다이소, 30%, 할인",
+      "[카페] 영화, 20%, 할인",
+      "[편의점] 편의점, 10%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 75,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/758",
+    "annual_fees": [
+      "10000"
+    ],
+    "benefit_keywords": [
+      "생활",
+      "카페",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 Deep Once Plus",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[렌탈 ] 렌탈 자동이체, 최대 7천포인트, 적립",
+      "[생활] 디지털구독 정기결제, 최대 6천포인트, 적립",
+      "[적립] 커피/편의점/해외이용, 최대 8천포인트, 적립"
+    ],
+    "pre_month_money": 400000,
+    "idx": 76,
+    "annual_fee": {
+      "domestic": {
+        "amount": 27000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 30000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/537",
+    "annual_fees": [
+      "27000",
+      "30000"
+    ],
+    "benefit_keywords": [
+      "렌탈",
+      "생활",
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 The Premium Pet",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[애완동물] 동물병원/펫쇼핑몰, 30%, 할인",
+      "[온라인쇼핑] 온라인 쇼핑몰, 10%, 할인",
+      "[바우처] Gift Option, 연간 1회, 제공"
+    ],
+    "pre_month_money": 400000,
+    "idx": 77,
+    "annual_fee": {
+      "domestic": {
+        "amount": 200000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 203000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2748",
+    "annual_fees": [
+      "200000",
+      "203000"
+    ],
+    "benefit_keywords": [
+      "바우처",
+      "애완동물",
+      "온라인쇼핑"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "요기요 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[배달앱] 요기요, 20%, 할인",
+      "[배달앱] 요기요, 10%, 추가캐시백",
+      "[디지털구독] 정기결제건, 15%, 할인"
+    ],
+    "pre_month_money": 500000,
+    "idx": 78,
+    "annual_fee": {
+      "domestic": {
+        "amount": 24000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 27000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/692",
+    "annual_fees": [
+      "24000",
+      "27000"
+    ],
+    "benefit_keywords": [
+      "디지털구독",
+      "배달앱",
+      "OTT"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": null,
+    "name": "GS Prime 신한카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[쇼핑] GS리테일, 2%, 적립",
+      "[적립] 일반가맹점, 0.3%, 적립",
+      "[무실적] 전월실적·적립한도, 제한 없음"
+    ],
+    "pre_month_money": 0,
+    "idx": 79,
+    "annual_fee": {
+      "domestic": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 18000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2243",
+    "annual_fees": [
+      "15000",
+      "18000"
+    ],
+    "benefit_keywords": [
+      "무실적",
+      "쇼핑",
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "IKEA(이케아) Family with 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[쇼핑] IKEA 매장, 10%, 할인",
+      "[쇼핑] 백화점/할인점, 5%, 할인",
+      "[편의점] 편의점, 5%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 80,
+    "annual_fee": {
+      "domestic": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 18000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/744",
+    "annual_fees": [
+      "15000",
+      "18000"
+    ],
+    "benefit_keywords": [
+      "쇼핑",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "수소차 충전할인 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[충전소] 수소차 충전요금, 10%, 할인",
+      "[자동차] 주차장, 자동차 정비/세차, 10%, 할인",
+      "[마트/편의점] 할인점/편의점/배달앱, 5%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 81,
+    "annual_fee": {
+      "domestic": {
+        "amount": 20000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 23000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2480",
+    "annual_fees": [
+      "20000",
+      "23000"
+    ],
+    "benefit_keywords": [
+      "마트",
+      "자동차",
+      "충전소",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 B.Big(마이펫 스노우볼 삑)",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[대중교통] 대중교통, 200~600원, 할인",
+      "[택시] 택시, 10%, 할인",
+      "[기차] KTX, 10%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 82,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 13000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/487",
+    "annual_fees": [
+      "13000"
+    ],
+    "benefit_keywords": [
+      "기차",
+      "대중교통",
+      "택시"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": null,
+    "name": "신한카드 My TeenS",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[마트/편의점] GS25 기프티콘 최대, 6천원, 증정",
+      "[마트/편의점] GS25, 행사상품, 할인"
+    ],
+    "pre_month_money": 0,
+    "idx": 83,
+    "annual_fee": {
+      "domestic": {
+        "amount": 1000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2236",
+    "annual_fees": [
+      "1000"
+    ],
+    "benefit_keywords": [
+      "마트",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 YaY",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[배달앱] 배달앱 최대, 30%, 적립",
+      "[온라인쇼핑] 온라인쇼핑 최대, 12,500포인트, 적립",
+      "[기타] 홈게임방, 10%, 적립"
+    ],
+    "pre_month_money": 500000,
+    "idx": 84,
+    "annual_fee": {
+      "domestic": {
+        "amount": 23000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 26000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/613",
+    "annual_fees": [
+      "23000",
+      "26000"
+    ],
+    "benefit_keywords": [
+      "기타",
+      "배달앱",
+      "온라인쇼핑"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "CJ ONE 프리즘 신한카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[드럭스토어] 올리브영, 10%, 적립",
+      "[푸드] 빕스/뚜레쥬스/CGV, 30%, 적립",
+      "[CJ ONE] 전가맹점 최대, 0.3%, 적립"
+    ],
+    "pre_month_money": 400000,
+    "idx": 85,
+    "annual_fee": {
+      "domestic": {
+        "amount": 20000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 23000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2598",
+    "annual_fees": [
+      "20000",
+      "23000"
+    ],
+    "benefit_keywords": [
+      "CJ ONE",
+      "드럭스토어",
+      "푸드"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "IKEA for Business with 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[인테리어] IKEA, 10%, 할인",
+      "[마트/편의점] 할인점, 5%, 할인",
+      "[모든가맹점] 모든가맹점, 0.3%, 할인"
+    ],
+    "pre_month_money": 500000,
+    "idx": 86,
+    "annual_fee": {
+      "domestic": {
+        "amount": 27000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 30000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/1198",
+    "annual_fees": [
+      "27000",
+      "30000"
+    ],
+    "benefit_keywords": [
+      "마트",
+      "모든가맹점",
+      "인테리어",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "메가쇼핑 신한카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[마트/편의점] 메가마트, 1%, 적립",
+      "[모든가맹점] 모든가맹점, 0.5%, 적립",
+      "[교통] 대중교통, 3~5%, 할인"
+    ],
+    "pre_month_money": 0,
+    "idx": 87,
+    "annual_fee": {
+      "domestic": {
+        "amount": 12000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/905",
+    "annual_fees": [
+      "12000",
+      "15000"
+    ],
+    "benefit_keywords": [
+      "교통",
+      "마트",
+      "모든가맹점",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한라이프 THE PRIDE 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[보험사] 전용치아보험, 5%, 할인 적용",
+      "[병원/약국] GC헬스케어, 무료혜택, 제공",
+      "[할인] 의료·헬스·생활편의 서비스, 7%, 할인"
+    ],
+    "pre_month_money": 0,
+    "idx": 88,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2606",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "병원",
+      "보험사",
+      "약국",
+      "할인"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "AMEX",
+    "name": "신한카드 Lesson Platinum#",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[교육/육아] 학원/학습지/독서실, 5%, 할인",
+      "[문화센터] 체험/활동학습, 5%, 할인",
+      "[도서] 서적, 5%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 89,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 27000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/38",
+    "annual_fees": [
+      "27000"
+    ],
+    "benefit_keywords": [
+      "교육",
+      "도서",
+      "문화센터",
+      "육아"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 Love Platinum#",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[쇼핑] 백화점,할인점,쇼핑몰, 5%, 할인",
+      "[주유] GS칼텍스, 60원/L, 할인",
+      "[영화] 영화, 7천원, 할인"
+    ],
+    "pre_month_money": 0,
+    "idx": 90,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 50000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/1003",
+    "annual_fees": [
+      "50000"
+    ],
+    "benefit_keywords": [
+      "쇼핑",
+      "영화",
+      "주유"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 혼디모앙",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[모든가맹점] 전 가맹점, 0.2%, 기본적립",
+      "[대형마트] 대형마트, 지역유통점 최대, 10%, 적립",
+      "[충전소] 전기차 충전소, 30%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 91,
+    "annual_fee": {
+      "domestic": {
+        "amount": 30000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 33000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/738",
+    "annual_fees": [
+      "30000",
+      "33000"
+    ],
+    "benefit_keywords": [
+      "대형마트",
+      "모든가맹점",
+      "충전소"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "아모레퍼시픽 신한카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[화장품] 아모레퍼시픽 뷰티포인트, 12%, 적립",
+      "[적립] 특별가맹점 뷰티포인트, 5%, 적립"
+    ],
+    "pre_month_money": 300000,
+    "idx": 92,
+    "annual_fee": {
+      "domestic": {
+        "amount": 17000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 20000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/753",
+    "annual_fees": [
+      "17000",
+      "20000"
+    ],
+    "benefit_keywords": [
+      "적립",
+      "화장품"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, Mastercard",
+    "name": "GS칼텍스 신한카드 Shine",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[주유] GS칼텍스, 60~100원/L, 할인",
+      "[교통] 버스/지하철/택시, 3~7%, 할인",
+      "[영화] 맥스무비 등, 1,500원, 할인"
+    ],
+    "pre_month_money": 200000,
+    "idx": 93,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 7000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/35",
+    "annual_fees": [
+      "7000"
+    ],
+    "benefit_keywords": [
+      "교통",
+      "영화",
+      "주유"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "L.PAY 신한카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 국내/해외이용금액, 0.1%, 적립",
+      "[적립] 교통/롯데더드림영역, 1%, 적립",
+      "[적립] 롯데더드림영역, 최대6%, 추가적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 94,
+    "annual_fee": {
+      "domestic": {
+        "amount": 17000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 20000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2267",
+    "annual_fees": [
+      "17000",
+      "20000"
+    ],
+    "benefit_keywords": [
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "LGE.COM 신한카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[생활] LGE.COM, 플러스 서비스 신청",
+      "[생활] 생활 서비스 영역 최대, 5% 포인트, 적립"
+    ],
+    "pre_month_money": 500000,
+    "idx": 95,
+    "annual_fee": {
+      "domestic": {
+        "amount": 25000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 28000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2787",
+    "annual_fees": [
+      "25000",
+      "28000"
+    ],
+    "benefit_keywords": [
+      "생활"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "SOCAR 제휴 SOCAR 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[렌터카] SOCAR, 30%, 할인",
+      "[기차] KTX/SRT, 10%, 할인",
+      "[카페] 커피전문점, 20%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 96,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 13000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/42",
+    "annual_fees": [
+      "13000"
+    ],
+    "benefit_keywords": [
+      "기차",
+      "렌터카",
+      "카페"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "대성학원 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[교육/육아] 대성학원·학원업종, 3~5%, 캐시백",
+      "[주유] GS칼텍스, 40원/L, 할인",
+      "[테마파크] 4대 놀이동산 최대, 50%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 97,
+    "annual_fee": {
+      "domestic": {
+        "amount": 30000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 33000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2608",
+    "annual_fees": [
+      "30000",
+      "33000"
+    ],
+    "benefit_keywords": [
+      "교육",
+      "육아",
+      "주유",
+      "테마파크"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "더본 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[카페/디저트] 뺵다방, 30%, 할인",
+      "[편의점] 편의점, 5%, 할인",
+      "[택시] 택시, 10%, 할인"
+    ],
+    "pre_month_money": 0,
+    "idx": 98,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/1019",
+    "annual_fees": [
+      "10000"
+    ],
+    "benefit_keywords": [
+      "디저트",
+      "카페",
+      "택시",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "리디 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[도서] 리디북스, 20%, 할인",
+      "[SPA브랜드] SPA, 10%, 할인",
+      "[영화] 영화, 4천원, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 99,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/1018",
+    "annual_fees": [
+      "10000"
+    ],
+    "benefit_keywords": [
+      "SPA브랜드",
+      "도서",
+      "영화"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신세계사이먼 프리미엄 아울렛 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[아울렛] 신세계아울렛, 10%, 할인",
+      "[기타] 신세계 계열사, 7%, 할인",
+      "[주유소] 주유, 40원/L, 할인"
+    ],
+    "pre_month_money": 400000,
+    "idx": 100,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2496",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "기타",
+      "아울렛",
+      "주유소"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": null,
+    "name": "신한 햇살론카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[쇼핑] 생활쇼핑 가맹점, 7%, 할인",
+      "[카페/디저트] 커피전문점/제과점, 10%, 할인",
+      "[쇼핑] 쇼핑몰/할인점, 10%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 101,
+    "annual_fee": {
+      "domestic": {
+        "amount": 5000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2481",
+    "annual_fees": [
+      "5000"
+    ],
+    "benefit_keywords": [
+      "디저트",
+      "쇼핑",
+      "카페"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, UnionPay",
+    "name": "신한카드 The PREMIER GOLD EDITION (아시아나클럽)",
+    "event": null,
+    "c_type_txt": "마일리지형",
+    "top_benefit": [
+      "[아시아나항공] 1,000원당, 1마일리지, 적립",
+      "[호텔] 프리미어 호텔 서비스, 연 1회, 제공",
+      "[골프] 골프장, 연 2회, 그린피 무료"
+    ],
+    "pre_month_money": 0,
+    "idx": 102,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 1900000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2097",
+    "annual_fees": [
+      "1900000"
+    ],
+    "benefit_keywords": [
+      "골프",
+      "아시아나항공",
+      "호텔"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 봄(도구리)",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[캐시백] 전가맹점 최대, 0.5%, 캐시백",
+      "[대중교통] 대중교통 일 최대, 200원, 캐시백",
+      "[디지털구독] 디지털 구독 최대, 10,000원, 캐시백"
+    ],
+    "pre_month_money": 0,
+    "idx": 103,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2596",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "대중교통",
+      "디지털구독",
+      "캐시백",
+      "OTT"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 플리(산리오캐릭터즈)",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[할인] 국내 이용금액, 최대 0.9%, 결제일 할인",
+      "[해외] 해외 이용금액, 0.5%, 결제일 할인",
+      "[기타] 매주 1회, 할인 쿠폰, 제공"
+    ],
+    "pre_month_money": 0,
+    "idx": 104,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2491",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "기타",
+      "할인",
+      "해외"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "AMEX",
+    "name": "위버스 신한카드(BTS)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 위버스샵, 4%, 적립",
+      "[적립] 하이브인사이트, 50%, 할인",
+      "[기타] Gift서비스, 연1회, 제공"
+    ],
+    "pre_month_money": 300000,
+    "idx": 105,
+    "annual_fee": {
+      "domestic": {
+        "amount": 35000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 35000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2240",
+    "annual_fees": [
+      "35000"
+    ],
+    "benefit_keywords": [
+      "기타",
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "홈플러스 스페셜 신한카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[대형마트] 홈플러스매장, 7%, 적립",
+      "[온라인쇼핑] 홈플러스온라인몰, 7%, 적립",
+      "[모든가맹점] 모든가맹점, 0.3%, 할인"
+    ],
+    "pre_month_money": 500000,
+    "idx": 106,
+    "annual_fee": {
+      "domestic": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 18000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/865",
+    "annual_fees": [
+      "15000",
+      "18000"
+    ],
+    "benefit_keywords": [
+      "대형마트",
+      "모든가맹점",
+      "온라인쇼핑"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard, UnionPay",
+    "name": "EDIYA 신한카드 Tasty",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[카페] EDIYA COFFEE, 50%, 할인",
+      "[쇼핑] 쇼핑, 10%, 할인",
+      "[드럭스토어] 올리브영, Watsons, 10%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 107,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/24",
+    "annual_fees": [
+      "10000"
+    ],
+    "benefit_keywords": [
+      "드럭스토어",
+      "쇼핑",
+      "카페"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "LG BEST SHOP 486 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[기타] 장기할부 혜택, 연 6.5%, 수수료",
+      "[기타] 할부이용 시, 11,000원, 캐시백"
+    ],
+    "pre_month_money": 500000,
+    "idx": 108,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2497",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "기타"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "Paydays 신한카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[모든가맹점] 국내·외 전 가맹점, 0.6%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 109,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2328",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "모든가맹점"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "Z:IN 인테리어 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[인테리어] Z:IN, 장기할부, 수수료 혜택",
+      "[인테리어] Z:IN, 할부캐시백, 제공"
+    ],
+    "pre_month_money": 0,
+    "idx": 110,
+    "annual_fee": {
+      "domestic": {
+        "amount": 22000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 25000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/1184",
+    "annual_fees": [
+      "22000",
+      "25000"
+    ],
+    "benefit_keywords": [
+      "인테리어"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "넥센타이어 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[렌터카] 넥센타이어 렌탈, 최대 2만원, 결제일 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 111,
+    "annual_fee": {
+      "domestic": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 18000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2870",
+    "annual_fees": [
+      "15000",
+      "18000"
+    ],
+    "benefit_keywords": [
+      "렌터카"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "넷마블 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[게임] 앱스토어, 10%, 할인",
+      "[편의점] 편의점, 10%, 할인",
+      "[영화] CGV, 20%, 할인"
+    ],
+    "pre_month_money": 400000,
+    "idx": 112,
+    "annual_fee": {
+      "domestic": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 13000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/1887",
+    "annual_fees": [
+      "10000",
+      "13000"
+    ],
+    "benefit_keywords": [
+      "게임",
+      "영화",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "땡겨요 신한카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[배달앱] 땡겨요앱 이용시, 10%, 포인트 적립",
+      "[마트/편의점] 편의점 이용시, 5%, 포인트 적립"
+    ],
+    "pre_month_money": 300000,
+    "idx": 113,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2331",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "마트",
+      "배달앱",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "마이 홈플러스 신한카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[대형마트] 홈플러스포인트, 1.2%, 적립",
+      "[기타] 생활친화가맹점, 잔돈할인, 서비스",
+      "[영화] YES24, 인터파크, 영화예매할인, 서비스"
+    ],
+    "pre_month_money": 0,
+    "idx": 114,
+    "annual_fee": {
+      "domestic": {
+        "amount": 12000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/478",
+    "annual_fees": [
+      "12000",
+      "15000"
+    ],
+    "benefit_keywords": [
+      "기타",
+      "대형마트",
+      "영화"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, UnionPay",
+    "name": "모바일 Tmoney 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[교통] 모바일 Tmoney App, 20%, 할인",
+      "[카페/디저트] 스타벅스, 50%, 할인",
+      "[통신] 통신요금, 5%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 115,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/30",
+    "annual_fees": [
+      "10000"
+    ],
+    "benefit_keywords": [
+      "교통",
+      "디저트",
+      "카페",
+      "통신",
+      "KT",
+      "LGU+"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "베베쿡 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[기타] 베베쿡, 10%, 할인",
+      "[쇼핑] 할인점/백화점 /마켓컬리, 5%, 할인",
+      "[쇼핑] 커피/잡화/온라인서점, 5%, 할인"
+    ],
+    "pre_month_money": 500000,
+    "idx": 116,
+    "annual_fee": {
+      "domestic": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2488",
+    "annual_fees": [
+      "15000"
+    ],
+    "benefit_keywords": [
+      "기타",
+      "쇼핑"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신세계 The BLOSSOM 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[백화점] 신세계백화점, 7%, 할인",
+      "[기타] 신세계 계열사, 5%, 할인",
+      "[생활] 생활/쇼핑, 5%, 할인"
+    ],
+    "pre_month_money": 500000,
+    "idx": 117,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2495",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "기타",
+      "백화점",
+      "생활"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 23.5°",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[대중교통] 버스,지하철, 200원, 할인",
+      "[적립] 마이신한포인트 , 1%, 적립",
+      "[카페] 스타벅스, 4,000원, 할인"
+    ],
+    "pre_month_money": 0,
+    "idx": 118,
+    "annual_fee": {
+      "domestic": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 14000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/7",
+    "annual_fees": [
+      "10000",
+      "14000"
+    ],
+    "benefit_keywords": [
+      "대중교통",
+      "적립",
+      "카페"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, UnionPay",
+    "name": "신한카드 All Pass",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[고속버스] 고속/시외버스, 30~10%, 할인",
+      "[교통] 지하철/시내버스/택시, 10%, 할인",
+      "[카페/디저트] 커피전문점, 20%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 119,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/31",
+    "annual_fees": [
+      "10000"
+    ],
+    "benefit_keywords": [
+      "고속버스",
+      "교통",
+      "디저트",
+      "카페"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": null,
+    "name": "신한카드 Always FAN",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[간편결제] 신한 FAN페이, 5%, 할인",
+      "[편의점] 편의점, 10%, 할인",
+      "[드럭스토어] 올리브영, 10% , 할인"
+    ],
+    "pre_month_money": 500000,
+    "idx": 120,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/23",
+    "annual_fees": [
+      "10000"
+    ],
+    "benefit_keywords": [
+      "간편결제",
+      "드럭스토어",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 Applus",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 프로그램, iPhone for Life, 이용",
+      "[적립] Applus포인트, 0.2%, 적립",
+      "[적립] 프로그램 미이용시, 3%~5%, 적립"
+    ],
+    "pre_month_money": 300000,
+    "idx": 121,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2611",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, Mastercard",
+    "name": "신한카드 Cube",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[선택형] 선택서비스, 5%, 할인",
+      "[할인] 1천원미만의, 잔돈, 할인",
+      "[주유소] 모든주유소, 60원/L, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 122,
+    "annual_fee": {
+      "domestic": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 13000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/6",
+    "annual_fees": [
+      "10000",
+      "13000"
+    ],
+    "benefit_keywords": [
+      "선택형",
+      "주유소",
+      "할인"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 D-day",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[편의점] 편의점, 5%, 적립",
+      "[카페] 스타벅스, 2,000원, 할인",
+      "[공항라운지] 라운지, 무료, 입장"
+    ],
+    "pre_month_money": 0,
+    "idx": 123,
+    "annual_fee": {
+      "domestic": {
+        "amount": 18000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 18000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/519",
+    "annual_fees": [
+      "18000"
+    ],
+    "benefit_keywords": [
+      "공항라운지",
+      "카페",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, UnionPay",
+    "name": "신한카드 Deep Dream",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 모두드림, 0.7%, 적립",
+      "[생활] 더해드림, 2.1%, 적립",
+      "[생활] 챙겨드림, 3.5%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 124,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 8000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/32",
+    "annual_fees": [
+      "8000"
+    ],
+    "benefit_keywords": [
+      "생활",
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, UnionPay",
+    "name": "신한카드 Deep Dream Platinum+",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[무실적] 모두드림, 최대 1.1%, 적립",
+      "[생활] 더해드림, 최대 3.3%, 적립",
+      "[생활] 챙겨드림, 최대 5.5%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 125,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 30000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/40",
+    "annual_fees": [
+      "30000"
+    ],
+    "benefit_keywords": [
+      "무실적",
+      "생활"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 Deep Dream(모베러웍스)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 모두드림, 0.7%, 적립",
+      "[생활] 더해드림, 2.1%, 적립",
+      "[생활] 챙겨드림, 3.5%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 126,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2295",
+    "annual_fees": [
+      "10000"
+    ],
+    "benefit_keywords": [
+      "생활",
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 Deep ECO",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[생활] 기부포인트, 0.1%, 적립",
+      "[대중교통] 대중교통, 5%, 캐시백",
+      "[영화] CGV, 1천원, 캐시백"
+    ],
+    "pre_month_money": 0,
+    "idx": 127,
+    "annual_fee": {
+      "domestic": {
+        "amount": 13000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 16000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/518",
+    "annual_fees": [
+      "13000",
+      "16000"
+    ],
+    "benefit_keywords": [
+      "대중교통",
+      "생활",
+      "영화"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 Eats More(곰표)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 전가맹점 결제금액, 1천원미만, 기본적립",
+      "[적립] 추가적립업종 건당, 최대 1,600P, 추가적립",
+      "[해외] 환전수수료, 면제, 서비스"
+    ],
+    "pre_month_money": 400000,
+    "idx": 128,
+    "annual_fee": {
+      "domestic": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 18000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2415",
+    "annual_fees": [
+      "15000",
+      "18000"
+    ],
+    "benefit_keywords": [
+      "적립",
+      "해외"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, Mastercard, JCB",
+    "name": "신한카드 Hi-Point",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 전국가맹점, 0.2~2.0%, 적립",
+      "[적립] 특정가맹점, 1~5%, 적립",
+      "[주유] 에이치디현대오일뱅크, 60원/L, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 129,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 8000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/1",
+    "annual_fees": [
+      "8000"
+    ],
+    "benefit_keywords": [
+      "적립",
+      "주유"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, Mastercard, UnionPay",
+    "name": "신한카드 Lady",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[백화점] 3대백화점, 5%, 할인",
+      "[패밀리레스토랑] 패밀리레스토랑, 20%, 할인",
+      "[테마파크] 놀이공원, 30~50%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 130,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 5000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/3",
+    "annual_fees": [
+      "5000"
+    ],
+    "benefit_keywords": [
+      "백화점",
+      "테마파크",
+      "패밀리레스토랑"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, Mastercard, AMEX, UnionPay",
+    "name": "신한카드 Love",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[백화점] 백화점/할인점, 5%, 할인",
+      "[카페/디저트] 스타벅스, 20%, 할인",
+      "[주유] GS칼텍스, 60원/L, 할인"
+    ],
+    "pre_month_money": 200000,
+    "idx": 131,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 8000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2",
+    "annual_fees": [
+      "8000"
+    ],
+    "benefit_keywords": [
+      "디저트",
+      "백화점",
+      "주유",
+      "카페"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard, UnionPay",
+    "name": "신한카드 Noon",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[점심] 점심, 30%, 할인",
+      "[카페/디저트] 커피전문점/제과점, 2,000원, 할인",
+      "[택시] 택시, 20%, 할인"
+    ],
+    "pre_month_money": 500000,
+    "idx": 132,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 8000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/25",
+    "annual_fees": [
+      "8000"
+    ],
+    "benefit_keywords": [
+      "디저트",
+      "점심",
+      "카페",
+      "택시"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 O2O",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[간편결제] Pay결제, 2~5%, 할인",
+      "[통신] 이동통신, 10%, 할인",
+      "[카페] 스타벅스, 2,000원, 할인"
+    ],
+    "pre_month_money": 500000,
+    "idx": 133,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/19",
+    "annual_fees": [
+      "10000"
+    ],
+    "benefit_keywords": [
+      "간편결제",
+      "카페",
+      "통신",
+      "KT",
+      "LGU+"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 Puzzle",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[모든가맹점] 국내외이용금액, 최대1.1%, 적립",
+      "[기타] 전월이용금액, 20만원, 이월서비스",
+      "[선택형] 기본/선택서비스팩, 최대3개, 제공"
+    ],
+    "pre_month_money": 0,
+    "idx": 134,
+    "annual_fee": {
+      "domestic": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 18000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2231",
+    "annual_fees": [
+      "15000",
+      "18000"
+    ],
+    "benefit_keywords": [
+      "기타",
+      "모든가맹점",
+      "선택형"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 The CLASSIC-L",
+    "event": null,
+    "c_type_txt": "마일리지형",
+    "top_benefit": [
+      "[할인] 캐시백형, 1%, 캐시백",
+      "[대한항공] 대한항공형, 1,500원/1마일, 적립",
+      "[아시아나항공] 아시아나항공형, 1,000원/1마일, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 135,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/33",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "대한항공",
+      "아시아나항공",
+      "할인"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, UnionPay",
+    "name": "신한카드 The LADY CLASSIC",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[바우처] Gift Option, 연 1회, 선택제공",
+      "[쇼핑] 쇼핑/육아/웰빙, 3~7%, 할인",
+      "[점심] 브런치, 5%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 136,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 100000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/943",
+    "annual_fees": [
+      "100000"
+    ],
+    "benefit_keywords": [
+      "바우처",
+      "쇼핑",
+      "점심"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 The More(더모아)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 전가맹점 결제금액, 1천원미만, 기본적립",
+      "[적립] 특별가맹점 결제금액, 1천원미만, 더블적립",
+      "[적립] 연간 적립포인트, 10%, 추가적립"
+    ],
+    "pre_month_money": 300000,
+    "idx": 137,
+    "annual_fee": {
+      "domestic": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 18000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/678",
+    "annual_fees": [
+      "15000",
+      "18000"
+    ],
+    "benefit_keywords": [
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 YOLO Tasty",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[쇼핑] 쇼핑업종, 10%, 할인",
+      "[카페/디저트] 커피,베이커리, 20%, 할인",
+      "[영화] CGV, 5,000원, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 138,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/17",
+    "annual_fees": [
+      "10000"
+    ],
+    "benefit_keywords": [
+      "디저트",
+      "쇼핑",
+      "영화",
+      "카페"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "AMEX",
+    "name": "신한카드 래플(Raffle)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[혜택 프로모션] 월 마다 최대, 7만P, 추첨적립",
+      "[혜택 프로모션] 분기 마다 최대, 30만P, 추첨적립"
+    ],
+    "pre_month_money": 500000,
+    "idx": 139,
+    "annual_fee": {
+      "domestic": {
+        "amount": 17000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 20000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2387",
+    "annual_fees": [
+      "17000",
+      "20000"
+    ],
+    "benefit_keywords": [
+      "혜택 프로모션"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "신한카드 핏(Fit)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[생활] 일상영역, 최대 4만p, 적립",
+      "[적립] Flex 영역, 10%, 기본 적립"
+    ],
+    "pre_month_money": 400000,
+    "idx": 140,
+    "annual_fee": {
+      "domestic": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 18000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2413",
+    "annual_fees": [
+      "15000",
+      "18000"
+    ],
+    "benefit_keywords": [
+      "생활",
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "아시아나 신한카드 Air 1.5",
+    "event": null,
+    "c_type_txt": "마일리지형",
+    "top_benefit": [
+      "[아시아나항공] 1,000원당, 1.5마일, 기본적립",
+      "[아시아나항공] 1,000원당, 3마일, 추가적립",
+      "[공항라운지] 국내, 공항라운지, 무료이용"
+    ],
+    "pre_month_money": 500000,
+    "idx": 141,
+    "annual_fee": {
+      "domestic": {
+        "amount": 43000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 45000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/27",
+    "annual_fees": [
+      "43000",
+      "45000"
+    ],
+    "benefit_keywords": [
+      "공항라운지",
+      "아시아나항공"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard, UnionPay",
+    "name": "알뜰교통카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[대중교통] 대중교통/택시, 10%, 할인",
+      "[마트/편의점] 마트/편의점, 10%, 할인",
+      "[자동차/하이패스] 전기차 충전 최대, 50%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 142,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 12000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/742",
+    "annual_fees": [
+      "12000"
+    ],
+    "benefit_keywords": [
+      "대중교통",
+      "마트",
+      "자동차",
+      "편의점",
+      "하이패스"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard",
+    "name": "위메프페이 신한카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 국내외가맹점, 0.7%, 기본적립",
+      "[간편결제] 위메프페이, 2%, 특별적립",
+      "[소셜커머스] 위메프, ~2%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 143,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": 12000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/44",
+    "annual_fees": [
+      "12000"
+    ],
+    "benefit_keywords": [
+      "간편결제",
+      "소셜커머스",
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "AMEX",
+    "name": "위버스 신한카드(ENHYPEN)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 위버스샵, 4%, 적립",
+      "[할인] 하이브인사이트, 50%, 할인",
+      "[기타] Gift서비스, 연1회, 제공"
+    ],
+    "pre_month_money": 300000,
+    "idx": 144,
+    "annual_fee": {
+      "domestic": {
+        "amount": 35000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 35000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2248",
+    "annual_fees": [
+      "35000"
+    ],
+    "benefit_keywords": [
+      "기타",
+      "적립",
+      "할인"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "AMEX",
+    "name": "위버스 신한카드(SEVENTEEN)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 위버스샵, 4%, 적립",
+      "[할인] 하이브인사이트, 50%, 할인",
+      "[기타] Gift서비스, 연1회, 제공"
+    ],
+    "pre_month_money": 300000,
+    "idx": 145,
+    "annual_fee": {
+      "domestic": {
+        "amount": 35000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 35000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2249",
+    "annual_fees": [
+      "35000"
+    ],
+    "benefit_keywords": [
+      "기타",
+      "적립",
+      "할인"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "AMEX",
+    "name": "위버스 신한카드(TXT)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 위버스샵, 4%, 적립",
+      "[할인] 하이브인사이트, 50%, 할인",
+      "[기타] Gift서비스, 연1회, 제공"
+    ],
+    "pre_month_money": 300000,
+    "idx": 146,
+    "annual_fee": {
+      "domestic": {
+        "amount": 35000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 35000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2250",
+    "annual_fees": [
+      "35000"
+    ],
+    "benefit_keywords": [
+      "기타",
+      "적립",
+      "할인"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA",
+    "name": "제주신화월드 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[리조트] 제주신화월드 객실, 최대 15%, 할인",
+      "[쇼핑] 신세계사이먼 프리미엄, 1만5천원, 할인",
+      "[생활] 생활 영역, 10%, 할인"
+    ],
+    "pre_month_money": 500000,
+    "idx": 147,
+    "annual_fee": {
+      "domestic": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 18000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2479",
+    "annual_fees": [
+      "15000",
+      "18000"
+    ],
+    "benefit_keywords": [
+      "리조트",
+      "생활",
+      "쇼핑"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "VISA, Mastercard",
+    "name": "카카오뱅크 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[할인] 결제하는만큼, 최대5만원, 캐시백",
+      "[배달앱] 배달앱, 3천원, 캐시백",
+      "[수수료우대] 해외수수료, 전액, 할인"
+    ],
+    "pre_month_money": 0,
+    "idx": 148,
+    "annual_fee": {
+      "domestic": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/590",
+    "annual_fees": [
+      "15000"
+    ],
+    "benefit_keywords": [
+      "배달앱",
+      "수수료우대",
+      "할인"
+    ]
+  },
+  {
+    "cate_txt": "신용",
+    "brands_txt": "Mastercard, UnionPay",
+    "name": "카카오페이 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[카카오페이] 카카오페이, 20%, 할인",
+      "[소셜커머스] 쿠팡, 10%, 할인",
+      "[카페] 스타벅스, 커피빈, 10%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 149,
+    "annual_fee": {
+      "domestic": {
+        "amount": 12000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 15000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/22",
+    "annual_fees": [
+      "12000",
+      "15000"
+    ],
+    "benefit_keywords": [
+      "소셜커머스",
+      "카카오페이",
+      "카페"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "신한카드 Deep Dream 체크(미니언즈)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 모두드림, 0.2%, 적립",
+      "[생활] 더해드림, 0.6%, 적립",
+      "[생활] 챙겨드림, 1.0%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 150,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/646",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "생활",
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "카카오페이 신한 체크카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[간편결제] 카카오페이, 2%, 적립",
+      "[교통] 대중교통, 3%, 적립",
+      "[OTT/영화/문화] CGV 최대, 3천원, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 151,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/286",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "OTT",
+      "간편결제",
+      "교통",
+      "문화",
+      "영화",
+      "디지털구독"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 SOL트래블 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[해외이용] 해외 이용, 수수료 면제",
+      "[공항라운지/PP] 더라운지, 무료, 입장",
+      "[할인] 해외 대중교통, 1%, 할인"
+    ],
+    "pre_month_money": 0,
+    "idx": 152,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2667",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "PP",
+      "공항라운지",
+      "할인",
+      "해외이용"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "신한카드 Hey Young 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[대중교통] 대중교통, 5%, 캐시백",
+      "[영화] 영화, 5천원, 캐시백",
+      "[간편결제] 간편결제, 1%, 캐시백"
+    ],
+    "pre_month_money": 200000,
+    "idx": 153,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/618",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "간편결제",
+      "대중교통",
+      "영화"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 플리 체크(산리오캐릭터즈)",
+    "event": {
+      "card_detail_text": "1만원 캐시백 + 스타벅스 쿠폰까지",
+      "title": "신한카드 체크 3종",
+      "subject": "1만원 캐시백"
+    },
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[모든가맹점] 국내 이용금액, 최대 0.3%, 할인",
+      "[해외] 해외 이용금액, 0.2%, 할인",
+      "[기타] 매 월 2회, 할인쿠폰, 제공"
+    ],
+    "pre_month_money": 0,
+    "idx": 154,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2492",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "기타",
+      "모든가맹점",
+      "해외"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA, UnionPay",
+    "name": "신한카드 Deep Dream 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 모두드림, 0.2%, 적립",
+      "[생활] 더해드림, 0.6%, 적립",
+      "[생활] 챙겨드림, 1.0%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 155,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/281",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "생활",
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "신한카드 On 체크(잔망루피)",
+    "event": {
+      "card_detail_text": "1만원 캐시백 + 스타벅스 쿠폰까지",
+      "title": "신한카드 체크 3종",
+      "subject": "1만원 캐시백"
+    },
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[간편결제] 간편결제, 2%, 적립",
+      "[생활] 생활편의, 2%, 적립",
+      "[해외] 해외 이용금액, 1.3%, 적립"
+    ],
+    "pre_month_money": 200000,
+    "idx": 156,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2379",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "간편결제",
+      "생활",
+      "해외"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "네이버페이 신한카드 체크 S2",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[네이버페이] 네이버 최대, 2%, 적립",
+      "[적립] 네이버 외, 0.1%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 157,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2268",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "네이버페이",
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "K-패스 신한카드 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[교통] 대중교통, 10%, 할인",
+      "[간편결제] 간편결제, 2%, 할인",
+      "[생활] 생활 부문, 2%, 할인"
+    ],
+    "pre_month_money": 200000,
+    "idx": 158,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2693",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "간편결제",
+      "교통",
+      "생활"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "신한 후불 기후동행 체크카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[할인] 온라인, 5%, 할인",
+      "[할인] 오프라인, 5%, 할인"
+    ],
+    "pre_month_money": 200000,
+    "idx": 159,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2767",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "할인"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "신한카드 Point Plan 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[생활] 일상생활비, 0.2~1%, 적립",
+      "[배달앱] 주말 배달앱, 1천포인트, 적립",
+      "[편의점] 편의점, 5%포인트, 적립"
+    ],
+    "pre_month_money": 200000,
+    "idx": 160,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2673",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "배달앱",
+      "생활",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 Pick E 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[편의점] 편의점·커피, 10%, 적립",
+      "[생활] 사진·볼링·테니스·스키, 10%, 적립",
+      "[푸드] One Pick 맛집, 3천 포인트, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 161,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2528",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "생활",
+      "편의점",
+      "푸드"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA, UnionPay",
+    "name": "신한카드 주거래 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[모든가맹점] 전가맹점, 0.3%, 적립",
+      "[쇼핑] 쇼핑, 해외가맹점, 0.7%, 추가적립",
+      "[통신] 생활가맹점, 1.7%, 추가적립"
+    ],
+    "pre_month_money": 300000,
+    "idx": 162,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/284",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "모든가맹점",
+      "쇼핑",
+      "통신",
+      "KT",
+      "LGU+"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": null,
+    "name": "신한카드 하이패스(전용) 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[교통] 하이패스요금, 0.1%, 적립",
+      "[교통] 통행료, 20%, 자동할인"
+    ],
+    "pre_month_money": 100000,
+    "idx": 163,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/391",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "교통"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "FANtastic S 신한카드 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[간편결제] 간편결제(FAN페이), 15%, 캐시백",
+      "[소셜커머스] 쿠팡,티몬, 10%, 캐시백",
+      "[카페] 스타벅스, 10%, 캐시백"
+    ],
+    "pre_month_money": 300000,
+    "idx": 164,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/278",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "간편결제",
+      "소셜커머스",
+      "카페"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 SOL트래블 J체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[해외] 해외이용, 수수료, 면제",
+      "[쇼핑] 돈키호테, 스타벅스, 50%, 결제일 할인",
+      "[편의점] 일본 3대 편의점, 5%, 결제일 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 165,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2847",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "쇼핑",
+      "편의점",
+      "해외"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "신한카드 S-Line 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 전 가맹점, 0.2%~0.5%, 적립",
+      "[푸드] 요식업종, 5%, 할인",
+      "[교통] 버스,지하철, 5%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 166,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/294",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "교통",
+      "적립",
+      "푸드"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": null,
+    "name": "GS칼텍스 신한카드 경차사랑 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[자동차] 경차, 유류세, 환급",
+      "[주유] GS칼텍스, 15원~30원/L, 할인",
+      "[보험] 자동차보험, 2만~3만원, 할인"
+    ],
+    "pre_month_money": 0,
+    "idx": 167,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/303",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "보험",
+      "자동차",
+      "주유"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "신한카드 On 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[간편결제] 간편결제, 2%, 적립",
+      "[생활] 생활편의, 2%, 적립",
+      "[해외] 해외 이용금액, 1.3%, 적립"
+    ],
+    "pre_month_money": 200000,
+    "idx": 168,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2343",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "간편결제",
+      "생활",
+      "해외"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "신한카드 On 체크(쥬라기)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[간편결제] 간편결제, 2%, 적립",
+      "[생활] 생활편의, 2%, 적립",
+      "[해외] 해외 이용금액, 1.3%, 적립"
+    ],
+    "pre_month_money": 200000,
+    "idx": 169,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2373",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "간편결제",
+      "생활",
+      "해외"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "Point Plan 체크(SOL 모임)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[생활] 일상 생활비, 최대 1%, 적립",
+      "[배달앱] 주말 배달앱, 1천 포인트, 적립",
+      "[편의점] 편의점, 5%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 170,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2830",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "배달앱",
+      "생활",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "카카오페이 신한 춘식이 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[카카오페이] 카카오페이결제, 2%+2%, 적립",
+      "[편의점] 4대 편의점, 5%, 적립",
+      "[통신] 통신요금, 5%, 적립"
+    ],
+    "pre_month_money": 300000,
+    "idx": 171,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2638",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "카카오페이",
+      "통신",
+      "편의점",
+      "KT",
+      "LGU+"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 Pick I 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[편의점] 편의점·커피, 10%, 적립",
+      "[디지털구독] 디지털 구독, 10%, 적립",
+      "[온라인쇼핑] One Pick 쇼핑몰, 3천 포인트, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 172,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2527",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "디지털구독",
+      "온라인쇼핑",
+      "편의점",
+      "OTT"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA, Mastercard",
+    "name": "신한 S-Choice체크카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[교통] 버스/지하철/택시, 10%, 할인(캐시백)",
+      "[카페] 커피전문점, 20%, 할인(캐시백)",
+      "[백화점] 백화점 , 10%, 할인(캐시백)"
+    ],
+    "pre_month_money": 200000,
+    "idx": 173,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/296",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "교통",
+      "백화점",
+      "카페"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "신한카드 Way 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[교통] 대중교통, 5%, 적립",
+      "[생활] 생활편의, 2%, 적립",
+      "[해외] 해외 이용금액, 1.3%, 적립"
+    ],
+    "pre_month_money": 200000,
+    "idx": 174,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2338",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "교통",
+      "생활",
+      "해외"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "신한카드 국민행복 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[디지털구독] 넷플릭스/유튜브, 50%, 할인",
+      "[배달앱] 배달앱, 5%, 할인",
+      "[어린이집] 어린이집/유치원, 5%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 175,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/713",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "디지털구독",
+      "배달앱",
+      "어린이집",
+      "OTT"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard, UnionPay",
+    "name": "CJ ONE 신한카드 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[CJ ONE] CJ ONE포인트, 5%, 추가적립",
+      "[영화] CGV, 7,000원, 캐시백",
+      "[카페] 투썸플레이스 , 10%, 캐시백"
+    ],
+    "pre_month_money": 200000,
+    "idx": 176,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/279",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "CJ ONE",
+      "영화",
+      "카페"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard, UnionPay",
+    "name": "다이소 신한카드 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[생활] 다이소, 20%, 캐시백",
+      "[편의점] 편의점, 10%, 캐시백",
+      "[영화] 영화, 20%, 캐시백"
+    ],
+    "pre_month_money": 200000,
+    "idx": 177,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/759",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "생활",
+      "영화",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "신한카드 Way 체크(최고심)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[교통] 대중교통 최대, 5%, 적립",
+      "[생활] 생활편의 최대, 2%, 적립",
+      "[해외] 해외 이용금액, 1.3%, 적립"
+    ],
+    "pre_month_money": 200000,
+    "idx": 178,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2471",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "교통",
+      "생활",
+      "해외"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 플리(체크)",
+    "event": {
+      "card_detail_text": "1만원 캐시백 + 스타벅스 쿠폰까지",
+      "title": "신한카드 체크 3종",
+      "subject": "1만원 캐시백"
+    },
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[모든가맹점] 국내 이용금액, 최대 0.3%, 할인",
+      "[해외] 해외 이용금액, 0.2%, 할인",
+      "[기타] 매 월 2회, 할인쿠폰, 제공"
+    ],
+    "pre_month_money": 0,
+    "idx": 179,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2372",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "기타",
+      "모든가맹점",
+      "해외"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": null,
+    "name": "위버스 신한카드 체크(BTS)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 위버스샵, 2%, 적립",
+      "[생활] 생활영역, 5%, 적립",
+      "[할인] 하이브인사이트, 25%, 할인"
+    ],
+    "pre_month_money": 200000,
+    "idx": 180,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2244",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "생활",
+      "적립",
+      "할인"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "카카오페이 신한 라이언 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[카카오페이] 카카오페이결제, 2%+2%, 적립",
+      "[카페] 커피전문점, 5%, 적립",
+      "[대중교통] 대중교통, 5%, 적립"
+    ],
+    "pre_month_money": 300000,
+    "idx": 181,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2637",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "대중교통",
+      "카카오페이",
+      "카페"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "GS Prime 신한카드 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[쇼핑] GS리테일, 1%, 적립",
+      "[멤버십포인트] 일반가맹점, 0.1%, 적립",
+      "[무실적] 전월실적·적립한도, 제한 없음"
+    ],
+    "pre_month_money": 0,
+    "idx": 182,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2589",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "멤버십포인트",
+      "무실적",
+      "쇼핑"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "신한 슈퍼SOL 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[모든가맹점] 모든가맹점, 0.3%, 적립",
+      "[적립] 생활가맹점, 총 2%, 적립",
+      "[적립] 쇼핑/해외, 총 1%, 적립"
+    ],
+    "pre_month_money": 300000,
+    "idx": 183,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/638",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "모든가맹점",
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "신한카드 Way 체크(쥬라기)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[교통] 대중교통, 5%, 적립",
+      "[생활] 생활편의, 2%, 적립",
+      "[해외] 해외 이용금액, 1.3%, 적립"
+    ],
+    "pre_month_money": 200000,
+    "idx": 184,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2374",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "교통",
+      "생활",
+      "해외"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA, UnionPay",
+    "name": "SOCAR 제휴 SOCAR 신한카드 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[렌터카] SOCAR 결제, 10%, 할인",
+      "[영화] 영화예매, 10%, 할인",
+      "[기차] 철도 이용시, 5%, 할인"
+    ],
+    "pre_month_money": 200000,
+    "idx": 185,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/300",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "기차",
+      "렌터카",
+      "영화"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 FANtastic S 체크(DRX)",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[간편결제] 간편결제(신한플레이), 15%, 캐시백",
+      "[소셜커머스] 쿠팡, 티몬, 10%, 캐시백",
+      "[카페] 스타벅스, 10%, 캐시백"
+    ],
+    "pre_month_money": 300000,
+    "idx": 186,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2478",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "간편결제",
+      "소셜커머스",
+      "카페"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 Pick I 선불",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[편의점] 편의점·커피, 10%, 적립",
+      "[디지털구독] 디지털 구독, 10%, 적립",
+      "[온라인쇼핑] One Pick 쇼핑몰, 3천 포인트, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 187,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2547",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "디지털구독",
+      "온라인쇼핑",
+      "편의점",
+      "OTT"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": null,
+    "name": "KT 신한카드 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[KT] KT통신요금, 5,000원, 캐시백",
+      "[편의점] GS25, 5%, 캐시백",
+      "[영화] CGV, 10%, 캐시백"
+    ],
+    "pre_month_money": 300000,
+    "idx": 188,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/301",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "KT",
+      "영화",
+      "편의점",
+      "통신",
+      "LGU+"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "마이 홈플러스 체크카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[대형마트] 홈플러스포인트, 0.6%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 189,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/479",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "대형마트"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard, UnionPay",
+    "name": "신세계 신한카드 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[카페] 스타벅스, 500원, 할인",
+      "[소셜커머스] 쿠팡,티몬, 1%, 포인트적립",
+      "[테마파크] 롯데월드,서울랜드, 50%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 190,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/282",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "소셜커머스",
+      "카페",
+      "테마파크"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": null,
+    "name": "신한 Meme(밈) 카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[음원사이트] 음원사이트, 5%, 적립",
+      "[기타] 앱스토어, 5%, 적립",
+      "[편의점] 편의점, 5%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 191,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2272",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "기타",
+      "음원사이트",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 FANtastic S 체크(LoL)",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[간편결제] 간편결제(신한플레이), 15%, 캐시백",
+      "[소셜커머스] 쿠팡,티몬, 10%, 캐시백",
+      "[카페] 스타벅스, 10%, 캐시백"
+    ],
+    "pre_month_money": 300000,
+    "idx": 192,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2426",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "간편결제",
+      "소셜커머스",
+      "카페"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "신한카드 S-Line 체크(마이펫)",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[적립] 모든가맹점, 0.2~0.5%, 적립",
+      "[푸드] 요식업종, 5%, 할인",
+      "[대중교통] 대중교통, 5%, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 193,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/647",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "대중교통",
+      "적립",
+      "푸드"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": null,
+    "name": "위버스 신한카드 체크(SEVENTEEN)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 위버스샵, 2%, 적립",
+      "[생활] 생활영역, 5%, 적립",
+      "[할인] 하이브인사이트, 25%, 할인"
+    ],
+    "pre_month_money": 200000,
+    "idx": 194,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2247",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "생활",
+      "적립",
+      "할인"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "11번가 신한카드 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 국내외가맹점, 0.1%, 적립",
+      "[적립] 11번가, 0.5%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 195,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/491",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard, UnionPay",
+    "name": "EDIYA 신한카드 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[카페] EDIYA, 30%, 할인"
+    ],
+    "pre_month_money": 200000,
+    "idx": 196,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/309",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "카페"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "JYP Fan’s EDM 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[공연/전시] 국내콘서트/공연, 5%, 캐시백",
+      "[음원사이트] 음원/스트리밍, 5%, 캐시백",
+      "[대중교통] 대중교통, 3%, 캐시백"
+    ],
+    "pre_month_money": 200000,
+    "idx": 197,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/644",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "공연",
+      "대중교통",
+      "음원사이트",
+      "전시"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "L.pay 신한카드 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 국내/해외일시불, 0.1%, 적립",
+      "[쇼핑] 롯데더드림영역, 0.5%, 적립",
+      "[간편결제] L.pay결제시 최대, 2.5%, 추가적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 198,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/645",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "간편결제",
+      "쇼핑",
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": null,
+    "name": "LG U+ 신한카드 Smart 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[LGU+] LG U+ 통신요금, 3,000원, 캐시백",
+      "[편의점] GS25, 5%, 캐시백",
+      "[영화] 맥스무비, 2,000원, 캐시백"
+    ],
+    "pre_month_money": 300000,
+    "idx": 199,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/302",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "LGU+",
+      "영화",
+      "편의점",
+      "통신",
+      "KT"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA, UnionPay",
+    "name": "리디 신한카드 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[도서] 리디북스, 10%, 할인",
+      "[영화] 영화예매, 10%, 할인",
+      "[패스트푸드] KFC, 10%, 할인"
+    ],
+    "pre_month_money": 200000,
+    "idx": 200,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/306",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "도서",
+      "영화",
+      "패스트푸드"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "신한카드 Way 체크(미니언즈 여름)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[대중교통] 대중교통, 최대 5%, 적립",
+      "[생활] 생활편의, 최대 2%, 적립",
+      "[해외] 해외 이용금액, 1.3%, 적립"
+    ],
+    "pre_month_money": 200000,
+    "idx": 201,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2585",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "대중교통",
+      "생활",
+      "해외"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 봄(체크)",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[캐시백] 국내외 이용금액 최대, 0.3%, 캐시백",
+      "[대중교통] 대중교통 일 최대, 200원, 캐시백"
+    ],
+    "pre_month_money": 0,
+    "idx": 202,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2512",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "대중교통",
+      "캐시백"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": null,
+    "name": "신한카드 처음(선불)",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[기타] 계좌가 없어도, 간편발급",
+      "[대중교통] 충전식(티머니), 교통카드, 기능",
+      "[기타] 매일 매일, 출석체크, 전용 혜택"
+    ],
+    "pre_month_money": 0,
+    "idx": 203,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2857",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "기타",
+      "대중교통"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": null,
+    "name": "위버스 신한카드 체크(ENHYPEN)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 위버스샵, 2%, 적립",
+      "[생활] 생활영역, 5%, 적립",
+      "[할인] 하이브인사이트, 25%, 할인"
+    ],
+    "pre_month_money": 200000,
+    "idx": 204,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2246",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "생활",
+      "적립",
+      "할인"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "투썸플레이스 신한카드 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[카페] 투썸플레이스, 20%, 캐시백",
+      "[디지털구독] OTT서비스, 1천원, 캐시백"
+    ],
+    "pre_month_money": 300000,
+    "idx": 205,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2342",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "디지털구독",
+      "카페",
+      "OTT"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "Deep On 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[모든가맹점] 국내가맹점, 0.2%, 적립",
+      "[해외이용] 해외가맹점, 0.5%, 적립",
+      "[디지털구독] 정기결제 최대, 2%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 206,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/639",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "디지털구독",
+      "모든가맹점",
+      "해외이용",
+      "OTT"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "LineageM 신한카드 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[게임] 앱스토어, 5%, 캐시백",
+      "[게임] 구글 플레이스토어, 5%, 캐시백",
+      "[카페] 스타벅스, 20%, 캐시백"
+    ],
+    "pre_month_money": 400000,
+    "idx": 207,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/1807",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "게임",
+      "카페"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "Paydays 신한카드 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[모든가맹점] 국내·외 전 가맹점, 0.3%, 포인트 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 208,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2337",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "모든가맹점"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "TEENS(틴즈) PLUS PONEY 신한카드 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[영화] 영화, 2천원, 할인",
+      "[테마파크] 놀이공원, 50%, 할인",
+      "[푸드] 베이커리/패스트푸드, 5%, 캐시백"
+    ],
+    "pre_month_money": 100000,
+    "idx": 209,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/683",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "영화",
+      "테마파크",
+      "푸드"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "ZEPETO 신한카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[모든가맹점] 전 가맹점, 최대 0.5%, 적립",
+      "[편의점] 편의점 결제, 5%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 210,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2375",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "모든가맹점",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "네이버페이 신한카드 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[간편결제] 전가맹점, 1%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 211,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/460",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "간편결제"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "더본 신한카드 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[카페] 빽다방, 20%, 할인",
+      "[일반음식점] 더본 모든매장, 5%, 할인",
+      "[영화] CGV, 10%, 할인"
+    ],
+    "pre_month_money": 200000,
+    "idx": 212,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/307",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "영화",
+      "일반음식점",
+      "카페"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "땡겨요 신한카드 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[배달앱] 땡겨요 앱, 10%, 포인트 적립",
+      "[카페] 스타벅스, 2%, 포인트 적립",
+      "[편의점] 편의점, 2%, 포인트 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 213,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2333",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "배달앱",
+      "카페",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "땡겨요 신한카드 체크(라이더형)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[모든가맹점] 전가맹점, 0.2%, 포인트 적립",
+      "[주유] 주유소, 0.2%, 포인트 추가 적립",
+      "[편의점] 편의점, 0.2%, 포인트 추가 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 214,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2334",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "모든가맹점",
+      "주유",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "메가쇼핑 신한카드 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[마트/편의점] 메가마트, 0.5%, 적립",
+      "[마트/편의점] 메가마트, 0.2%, 추가적립",
+      "[모든가맹점] 모든가맹점, 0.1%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 215,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/906",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "마트",
+      "모든가맹점",
+      "편의점"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "몰테일 신한카드 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[해외직구] 몰테일, 3천원 , 캐시백",
+      "[해외이용] 해외전가맹점, 1.2%, 캐시백",
+      "[소셜커머스] 쿠팡,티몬, 9%, 캐시백"
+    ],
+    "pre_month_money": 0,
+    "idx": 216,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/311",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "소셜커머스",
+      "해외이용",
+      "해외직구"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "신한 S20 Pink(핑크)체크카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[대중교통] 지하철/버스, 10%, 캐시백",
+      "[통신] 이동통신요금, 3,000원, 캐시백",
+      "[온라인쇼핑] 4대 온라인쇼핑몰, 7%, 캐시백"
+    ],
+    "pre_month_money": 200000,
+    "idx": 217,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/295",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "대중교통",
+      "온라인쇼핑",
+      "통신",
+      "KT",
+      "LGU+"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "신한 S20 체크카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[교통] 버스/지하철/택시, 10%, 캐시백",
+      "[통신] 이동통신요금, 2~3천원, 캐시백",
+      "[편의점] GS25, 2~7%, 캐시백"
+    ],
+    "pre_month_money": 200000,
+    "idx": 218,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/298",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "교통",
+      "통신",
+      "편의점",
+      "KT",
+      "LGU+"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 4Tune 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 국내 모든 가맹점, 0.2%, 적립",
+      "[적립] 해외 모든 가맹점, 1%, 적립",
+      "[카페] 커피전문점, 10%, 할인"
+    ],
+    "pre_month_money": 0,
+    "idx": 219,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/290",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "적립",
+      "카페"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA, UnionPay",
+    "name": "신한카드 Deep Dream 체크(모베러웍스)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 모두드림, 0.2%, 적립",
+      "[생활] 더해드림, 0.6%, 적립",
+      "[생활] 챙겨드림, 1.0%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 220,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2391",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "생활",
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard, UnionPay",
+    "name": "신한카드 EV 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[기타] 전기차 충전, 30%, 할인",
+      "[대중교통] 대중교통, 5%, 할인",
+      "[보험사] 보험료, 30,000원, 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 221,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/299",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "기타",
+      "대중교통",
+      "보험사"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "신한카드 Finnq(핀크) 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 핀크머니, 0.2%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 222,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/698",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "적립"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "신한카드 Global Air 스카이패스 체크",
+    "event": null,
+    "c_type_txt": "마일리지형",
+    "top_benefit": [
+      "[대한항공] 주중 3,000원 당, 1마일리지, 적립",
+      "[대한항공] 주말 1,500원 당, 1마일리지, 적립",
+      "[해외이용] 해외인출 1건당, US $3, 캐시백"
+    ],
+    "pre_month_money": 200000,
+    "idx": 223,
+    "annual_fee": {
+      "domestic": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/642",
+    "annual_fees": [
+      "10000"
+    ],
+    "benefit_keywords": [
+      "대한항공",
+      "해외이용"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "신한카드 Global Air 아시아나 체크",
+    "event": null,
+    "c_type_txt": "마일리지형",
+    "top_benefit": [
+      "[아시아나항공] 주중 2,500원 당, 1마일리지, 적립",
+      "[아시아나항공] 주말 1,000원 당, 1마일리지, 적립",
+      "[해외이용] 해외인출 1건 당, US $3, 캐시백"
+    ],
+    "pre_month_money": 200000,
+    "idx": 224,
+    "annual_fee": {
+      "domestic": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      },
+      "international": {
+        "amount": 10000,
+        "currency": "KRW",
+        "available": true
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/643",
+    "annual_fees": [
+      "10000"
+    ],
+    "benefit_keywords": [
+      "아시아나항공",
+      "해외이용"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": null,
+    "name": "신한카드 Global+ 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[모든가맹점] 국내가맹점, 0.2%, 캐시백",
+      "[대중교통] 대중교통, 2%, 캐시백",
+      "[해외] 해외가맹점, 1.2%, 캐시백"
+    ],
+    "pre_month_money": 300000,
+    "idx": 225,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/641",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "대중교통",
+      "모든가맹점",
+      "해외"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "신한카드 Global+ 체크 월리를찾아라",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[캐시백] 국내 전 가맹점, 0.2%, 캐시백",
+      "[대중교통] 대중교통, 2%, 캐시백",
+      "[해외] 해외 전 가맹점, 1.2%, 캐시백"
+    ],
+    "pre_month_money": 200000,
+    "idx": 226,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2584",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "대중교통",
+      "캐시백",
+      "해외"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 Pick E 선불",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[편의점] 편의점/커피, 10%, 적립",
+      "[멤버십포인트] 사진·볼링·테니스·스키, 10%, 적립",
+      "[푸드] One Pick 맛집, 3천 포인트, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 227,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2546",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "멤버십포인트",
+      "편의점",
+      "푸드"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 Pick E 체크(포켓몬스터)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[편의점] 편의점·커피, 10%, 적립",
+      "[생활] 사진·볼링·테니스·스키, 10%, 적립",
+      "[푸드] One Pick 맛집, 최대 3천 포인트, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 228,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2599",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "생활",
+      "편의점",
+      "푸드"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 Pick I 체크(포켓몬스터)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[편의점] 편의점·커피, 10%, 적립",
+      "[디지털구독] 디지털 구독, 10%, 적립",
+      "[온라인쇼핑] One Pick 쇼핑몰, 3천 포인트, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 229,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2600",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "디지털구독",
+      "온라인쇼핑",
+      "편의점",
+      "OTT"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 봄 체크(도구리)",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[캐시백] 국내외 이용금액 최대, 0.3%, 캐시백",
+      "[대중교통] 대중교통 일 최대, 200원, 캐시백"
+    ],
+    "pre_month_money": 0,
+    "idx": 230,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2597",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "대중교통",
+      "캐시백"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "신한카드 아이행복 체크카드",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[병원] 병원/약국, 5%, 할인",
+      "[대형마트] 쇼핑, 5%, 할인",
+      "[통신] 통신비/도시가스, 5% , 할인"
+    ],
+    "pre_month_money": 300000,
+    "idx": 231,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/292",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "대형마트",
+      "병원",
+      "통신",
+      "KT",
+      "LGU+"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "VISA",
+    "name": "아모레퍼시픽 신한카드 체크",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[화장품] 아모레퍼시픽, 8%, 적립",
+      "[대형마트] 대형마트, 3%, 적립",
+      "[백화점] 백화점, 3%, 적립"
+    ],
+    "pre_month_money": 200000,
+    "idx": 232,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2341",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "대형마트",
+      "백화점",
+      "화장품"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "알뜰교통카드 S20 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[교통] 전국 지하철/버스/택시, 10%, 캐시백",
+      "[통신] 이동통신요금 최대, 3천원, 캐시백",
+      "[카페] 커피전문점, 20%, 캐시백"
+    ],
+    "pre_month_money": 200000,
+    "idx": 233,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/743",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "교통",
+      "카페",
+      "통신",
+      "KT",
+      "LGU+"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "요기요 신한카드 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[푸드] 요기요, 15%, 할인",
+      "[카페/디저트] 이디야, 10%, 할인",
+      "[마트/편의점] CU, 10%, 할인"
+    ],
+    "pre_month_money": 200000,
+    "idx": 234,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/308",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "디저트",
+      "마트",
+      "카페",
+      "편의점",
+      "푸드"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": null,
+    "name": "위버스 신한카드 체크(TXT)",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 위버스샵, 2%, 적립",
+      "[생활] 생활영역, 5%, 적립",
+      "[할인] 하이브인사이트, 25%, 할인"
+    ],
+    "pre_month_money": 200000,
+    "idx": 235,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/2245",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "생활",
+      "적립",
+      "할인"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "카카오페이 신한 콘 체크카드",
+    "event": null,
+    "c_type_txt": "포인트형",
+    "top_benefit": [
+      "[적립] 10회결제 때마다, 최대2만원, 적립",
+      "[배달앱] 땡겨요 앱 이용시, 최대6천원, 적립",
+      "[해외] 해외가맹점, 1%, 적립"
+    ],
+    "pre_month_money": 0,
+    "idx": 236,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/670",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "배달앱",
+      "적립",
+      "해외"
+    ]
+  },
+  {
+    "cate_txt": "체크",
+    "brands_txt": "Mastercard",
+    "name": "쿠팡 신한카드 체크",
+    "event": null,
+    "c_type_txt": "할인형",
+    "top_benefit": [
+      "[쇼핑] 쿠팡캐시, 3%, 적립",
+      "[카페/디저트] 스타벅스, 10%, 캐시백"
+    ],
+    "pre_month_money": 200000,
+    "idx": 237,
+    "annual_fee": {
+      "domestic": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      },
+      "international": {
+        "amount": null,
+        "currency": "KRW",
+        "available": false
+      }
+    },
+    "url": "https://www.card-gorilla.com/card/detail/283",
+    "annual_fees": [],
+    "benefit_keywords": [
+      "디저트",
+      "쇼핑",
+      "카페"
+    ]
+  }
+]

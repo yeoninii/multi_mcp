@@ -1,0 +1,34 @@
+# Core dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+
+# LangChain and MCP
+langchain==0.1.0
+langchain-core==0.1.10
+langchain-google-genai==0.0.6
+langchain-mcp-adapters==0.0.1
+langgraph==0.0.20
+
+# MCP and FastMCP
+mcp==1.12.3
+fastmcp==2.11.1
+
+# HTTP client
+requests==2.31.0
+
+# Environment variables
+python-dotenv==1.0.0
+
+# Web scraping and parsing
+playwright==1.40.0
+beautifulsoup4==4.12.2
+
+# Async support
+anyio==4.2.0
+
+# Optional: Development tools
+# pytest==7.4.3
+# pytest-asyncio==0.21.1
+# black==23.11.0
+# flake8==6.1.0 
